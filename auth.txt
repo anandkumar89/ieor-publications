@@ -1,0 +1,518 @@
+ 	                    :	 448
+ 	                    :	 731
+Abhishek Raghuvanshi 	:	 396
+Agarwal, Khushboo  	    :	 627
+Agarwal, Arpit  	    :	 599
+Agarwal, K.  	        :	 630
+Agarwal, Shubham  	    :	 719
+Agrawal, Ayush  	    :	 410
+Agrawal, Priya  	    :	 307
+Akarte, M M 	        :	 173
+Altman, Eitan  	        :	 462
+Aravindan, G. 	        :	 395
+Arora, Alisha  	        :	 433
+Arora, Nikita  	        :	 424
+Arumugam, S 	        :	 322
+Arya, Kavi  	        :	 701
+Aryan, Anish  	        :	 303
+Atamtürk, Alper  	    :	 730
+Atamtürk, Alper  	    :	 126
+Atamt¨urk, Alper  	    :	 520
+Awad, Asim  	        :	 619
+Awate, P G 	            :	 169
+Ayesta, Urtzi  	        :	 480
+Baatar, Davaatseren  	:	 679
+Babu, Ravindra  	    :	 516
+Bach, Francis  	        :	 511
+Baek, S K 	            :	 147
+Bahill, Terry A 	    :	 234
+Balaji, J 	            :	 272
+Balamurugan, P.  	    :	 508
+Balamurugan, P.  	    :	 612
+Balaraman, B 	        :	 146
+Baldwin, David G 	    :	 235
+Banerjee, B 	        :	 182
+Banerjee, Sayan  	    :	 610
+Bansal, Akshat  	    :	 732
+Beddode, Vanessa  	    :	 593
+Belotti, P 	            :	 334
+Belur, Madhu  	        :	 454
+Bhandari, Kavya  	    :	 688
+Bhardwaj, Avinash  	    :	 750
+Bharill, Rohit  	    :	 131
+Bhasin, Nikhil  	    :	 737
+Bhaskararao, Bangaru  	:	 611
+Bhat, Sanjay P 	        :	 465
+Bhat, S. P. 	        :	 577
+Bhatia, A.  	        :	 575
+Bhatnagar, S 	        :	 128
+Bhatnagar, shobhit  	:	 744
+Bhide, Sayli  	        :	 432
+Bichu, Shrirang  	    :	 733
+Bichu, Shrirang  	    :	 447
+Bijulal, D 	            :	 49
+Billa, Viswanath  	    :	 441
+Biró, Péter  	        :	 571
+Bodas, Tejas  	        :	 339
+Borkotokey, S.  	    :	 647
+Borkotokey, Surajit  	:	 664
+C, Deepak  	            :	 425
+Caliskan-Demirag, O.  	:	 496
+Capdevielle, Veronique  :	 341
+Caprihan, R 	        :	 144
+Chakrabarty, Aritra  	:	 427
+Chande, A 	            :	 101
+Chandrasekhar, K 	    :	 193
+Changotra, Avtar  	    :	 609
+Chaoji, Aditya  	    :	 244
+Chatterjee, Arko  	    :	 652
+Chatterjee, Sayan  	    :	 702
+Chatterjee, Debasish    :	 493
+Chaudhary, Kiran  	    :	 467
+Chellaboina, V.  	    :	 576
+Cheriyan, V 	        :	 265
+Chinta, Punya Murthy 	:	 517
+Chitkara, Puneet  	    :	 120
+Choudhary, Deepak  	    :	 430
+Choudhury, Deepak  	    :	 758
+Combes, Richard  	    :	 340
+Damani, Om  	        :	 742
+Damani, Om  	        :	 604
+Damayyawar, Dileep  	:	 324
+Dangeti, Pratap  	    :	 236
+Sumit J. Darak. 	    :	 532
+Sumit J. Darak  	        :	 694
+Sumit J. Darak 	        :	 718
+Sumit J. Darak  	            :	 717
+Sumit J. Darak 	        :	 523
+Darapaneni, Narayana  	:	 305
+Das, Debayan  	        :	 342
+Das, Debabrata  	    :	 403
+Date, Anil W 	        :	 246
+Datta, Ramesh  	        :	 299
+Dave, Nitish  	        :	 194
+Dayama, NirajRamesh  	:	 321
+Dekhane, S 	            :	 209
+Desai, Chetan  	        :	 208
+Deval, Rishav  	        :	 748
+Devanand, R.  	        :	 478
+Dhekane, S 	            :	 102
+Dhingra, Richa  	    :	 672
+Dhounchak, Ranbir  	    :	 475
+Dutta, S  	            :	 458
+Eedupuganti, S K 	    :	 149
+Elazouzi, Rachid  	    :	 485
+Ernst, Andreas T 	    :	 326
+Fatale, Santosh  	    :	 687
+Flammarion, Nicolas  	:	 510
+Foster, I.  	        :	 559
+Gajbhiye, Rajeev Kumar  :	 121
+Garg, Jugal  	        :	 163
+Garg, A K 	            :	 139
+Gaur, M S 	            :	 155
+Gautam, R K 	        :	 104
+George, Sajeev  	    :	 133
+Gharote, M S 	        :	 170
+Anirban Ghatak  	    :	 499
+Anirban Ghatak  	    :	 290
+Ghorpade, Tejas  	    :	 449
+Ghorpade, T.  	        :	 567
+Debamita Ghosh  	    :	 708
+Ghosh, M. K. 	        :	 491
+Debamita Ghosh  	    :	 543
+Ghosh, Anusuya  	    :	 329
+Ghosh, Mrinal K 	    :	 122
+Goel, Hritik  	        :	 716
+Goel, A 	            :	 152
+Gogoi, L.  	            :	 648
+Gokhale, Ravindra  	    :	 207
+Goldberg, N.  	        :	 565
+Gopalakrishnan, R 	    :	 113
+Goyal, Saumya  	        :	 741
+Gudwani, Hitesh  	    :	 714
+Gupta, Manu K. 	        :	 406
+Gupta, Nitin  	        :	 352
+Gyetvai, Márton  	    :	 572
+Hahn, Mirko  	        :	 545
+Han, Shih-Ping  	    :	 227
+Manjesh Kumar Hanawal 	:	 684
+Manjesh Kumar Hanawal. 	:	 477
+Manjesh Kumar Hanawal 	    :	 686
+Manjesh Kumar Hanawal 	        :	 656
+Manjesh Kumar Hanawal  	    :	 695
+Hansuwa, Sweety  	    :	 319
+Hasti, Charru  	        :	 250
+Hayel, Yezekael  	    :	 712
+Hayel, Yezekael  	    :	 476
+Hemachandra, N.  	    :	 466
+Hemachandra, Nandyala  	:	 537
+Hemachandra, Nandyala  	:	 330
+Hingu, Dharini  	    :	 359
+Hingu, D.  	            :	 506
+Hooda, N.  	            :	 562
+Huang, Yunhan  	        :	 469
+Humphrey, John  	    :	 295
+Iyengar, Sudarshan  	:	 361
+Iyer, K 	            :	 135
+Jafferali, Mohammed  	:	 237
+Jafferali, M Y K 	    :	 154
+Jain, Pulkit  	        :	 179
+Jakate, D 	            :	 185
+Jamale, Tukaram  	    :	 736
+Johri, M 	            :	 258
+Jones, Albert T 	    :	 100
+Joshi, Lalita  	        :	 429
+Joshi, Amruta  	        :	 426
+Joshi, Himani  	        :	 692
+Joy, John  	            :	 318
+Juneja, Sandeep  	:	 474
+K, Venkateswararao  	:	 579
+K, M V Rao 	:	 381
+Kahalekar, Sunil  	:	 722
+Kale, R  	:	 601
+Kalwar, Swati  	:	 663
+Kamath, M V 	:	 164
+Kaplinsky, Raphael  	:	 296
+Kapsikar, S.  	:	 628
+Karamchandani, Nikhil  	:	 586
+Karandikar, Abhay  	:	 484
+Kasinikota, Anusha  	:	 507
+Kasliwal, Naman  	:	 452
+Kavitha, V.  	:	 626
+Veeraruna Kavitha  	:	 669
+Keerthi, Sathiya  	:	 519
+Kettimuthu, R.  	:	 557
+Khandkar, V. S. 	:	 655
+Vinod S. Khandkar. 	:	 555
+Vinod S. Khandkar 	:	 685
+Khare, Amit  	:	 183
+Hussain A. Kharodawala 	:	 675
+Hussain A. Kharodawala 	:	 759
+Kirches, C 	:	 310
+Konda, C 	:	 257
+Koppisetti, Venkateswararao  	:	 670
+Kothari, Jatin  	:	 445
+Krishnamoorthy, Mohan  	:	 286
+Krishnamurthy Iyer, R 	:	 271
+Krunz, Marwan  	:	 525
+Kulkarni, D 	:	 162
+Kulkarni, Ketki  	:	 300
+Kulkarni, Pooja  	:	 408
+Kulkarni, K.  	:	 365
+Kulvatunyou, Booserm  	:	 107
+Kumar, R.  	:	 649
+Kumar, Sandeep  	:	 725
+Kumar, Rohit  	:	 531
+Kumar, Sunil K 	:	 289
+Kumar, Atul  	:	 377
+Kumar, Rajesh  	:	 446
+Kumar, Suresh  	:	 503
+Kumar, Ritesh  	:	 699
+Kumar, Sanjay  	:	 497
+Kumar, Uday M 	:	 756
+Kumar, Manoj  	:	 451
+Kumar, Rajnish  	:	 665
+Kumar, rajesh  	:	 734
+Kumar, Praveen  	:	 428
+Kushwaha, A.  	:	 614
+Ladage, Anurag  	:	 678
+Lakhani, Simran  	:	 746
+Lakshmanan, Sathishkumar  	:	 415
+Larsson, Urban  	:	 616
+Lee, Wee Sun 	:	 538
+Leyffer, S 	:	 309
+Sven Leyffer  	:	 546
+Linderoth, J 	:	 335
+Jeff Linderoth  	:	 680
+Liu, Z.  	:	 556
+James Luedtke  	:	 681
+Luedtke, J 	:	 336
+M, Rahul Kishor 	:	 440
+M, Uday Kumar 	:	 464
+Madan, Monish  	:	 238
+Mahajan, Ashutosh  	:	 676
+Mahajan, A.  	:	 644
+Mahajan, Ashutosh  	:	 315
+Maheshwari, Mayank  	:	 472
+Maheshwari, Ayush  	:	 698
+Maheswari, Abhishek  	:	 240
+Maiti, Sasanka  	:	 653
+Maiti, Sasanka Sekhar 	:	 434
+Fehmina Malik  	:	 711
+Malik, Rakesh  	:	 351
+Fehmina Malik  	:	 521
+Mallikarjuna Rao, K S 	:	 123
+Manjunath, D 	:	 151
+Manmohan, Maheer  	:	 251
+Manu Kumar Gupta 	:	 332
+Margabandu, Kaushik  	:	 284
+Maria, Tresa  	:	 757
+Mariappan, V 	:	 273
+Mathew, Tom V. 	:	 394
+Mayekar, Prathamesh  	:	 382
+Mehta, Kalpana  	:	 735
+Mehta, Malhar  	:	 481
+Memon, Salman  	:	 401
+Menezes, B L 	:	 118
+Methani, Jai  	:	 304
+Miglani, D  	:	 457
+Min, Jason  	:	 252
+Mincu, Radu Stefan 	:	 570
+Mishra, Adhokshaj  	:	 723
+Mishra, Rajat  	:	 595
+Mishra, V 	:	 141
+Misra, Siddarth  	:	 241
+Mittal, A 	:	 142
+Mittal, Prashant  	:	 242
+Sharayu Moharir  	:	 587
+Sharayu Moharir  	:	 690
+Moiyadi, Aliasgar  	:	 703
+Moorkanat, Jayan  	:	 168
+Moorkanat, Jayan  	:	 677
+Mopidevi, R 	:	 130
+More, Dileep  	:	 205
+Moudgalya, K 	:	 256
+Mrug, J 	:	 222
+Mukherjee, Diganta  	:	 500
+Mukherjee, Jayanta  	:	 349
+Munson, T.  	:	 645
+Todd Munson  	:	 682
+Murty, Narasimha  	:	 518
+N, Hemachandra  	:	 482
+Nagahara, Masaki  	:	 494
+Nagpal, Raj Kumar  	:	 350
+Naha, Chandrama  	:	 302
+Naik, R 	:	 259
+Jayakrishnan Nair  	:	 713
+Jayakrishnan Nair  	:	 468
+Nandakumar, Aarthi  	:	 325
+Nandakumaran, A K 	:	 150
+Nandakumaran, A. K. 	:	 502
+Narahari, Y 	:	 105
+Narayanan, Vishnu  	:	 125
+Narayanan, Vishnu  	:	 728
+Narayanan, V.  	:	 622
+Narayanan, N.C.  	:	 389
+Narayanaswami, Sundaravalli  	:	 260
+Narula, Urvidh  	:	 689
+Nguyen, Diep N 	:	 524
+noronha, Santosh  	:	 691
+P., Anoop K. 	:	 726
+Padalkar, Milind  	:	 254
+Paes, E 	:	 216
+Palkar, P.  	:	 558
+Pandey, Gunjan  	:	 371
+Pandey, Rahul  	:	 180
+Pang, Jong-Shi  	:	 226
+Panot, Jigar  	:	 431
+Paranjpe, V 	:	 228
+Pareek, Monika  	:	 608
+Parthasarathy, Purushottam  	:	 751
+Patel, Alok  	:	 392
+Patel, Neel  	:	 617
+Patil, Rahul  	:	 184
+Patil, Milind  	:	 210
+Patil, Kishor  	:	 405
+Pattanayak, Umakanta  	:	 400
+Paul, Siddhartha  	:	 386
+Peng, Guanze  	:	 580
+phatak, Sai  	:	 370
+Pingle, Amit  	:	 373
+Popa, Alexandru  	:	 573
+Posinasetty, Anusha  	:	 513
+Prakash, Rudrabhotla Sri 	:	 585
+Prakash, H 	:	 106
+Praneeth, Akondi  	:	 603
+Prasad, Krishna  	:	 355
+Puniya, Prashant  	:	 172
+Punjabi, Manish  	:	 354
+Puranam, Kartikeya S 	:	 268
+Pydah, V 	:	 143
+Quevado, Daniel  	:	 495
+Rafi, Hesham  	:	 187
+Raghupathi, Karthik  	:	 212
+Raghuram, G 	:	 167
+Rahman, H.  	:	 561
+Ravi Kant Rai 	:	 651
+Ravi Kant Rai 	:	 615
+Rai, Vinay  	:	 402
+Rajesh, M 	:	 153
+Arun Rajkumar  	:	 535
+Arun Rajkumar  	:	 706
+Raju, Subba U 	:	 261
+Ramakrishnan, Ganesh  	:	 700
+Ramanath, Sreenath  	:	 463
+Ramani, V.  	:	 501
+Ramkrishna, D.  	:	 566
+Ranade, A 	:	 255
+Rangaraj, N.  	:	 568
+Rangaraj, Narayan  	:	 550
+Rangaraj, Narayan  	:	 103
+Rangaraj, N  	:	 641
+Rao, K.S. Mallikarju 	:	 646
+Rao, K. S. Mallika 	:	 666
+Rao, K. S. Mallika 	:	 490
+Rao, M S S 	:	 119
+Rathore, A 	:	 145
+Ravi, B 	:	 175
+Ravibabu, M 	:	 188
+Ravikumar, K 	:	 201
+Rawal, Ayush  	:	 353
+Reddy, Mallikarjuna  	:	 600
+Reddy, Vinod Kumar B 	:	 247
+Reiffers-Masson, Alexandre  	:	 674
+Roy, Animesh  	:	 724
+Ruthotto, Lars  	:	 547
+Sable, Arjun  	:	 720
+Sabnis, Shirish  	:	 372
+Sabnis, Sanjeev  	:	 551
+Saha, Akash  	:	 605
+Indrajit Saha  	:	 473
+Indrajit Saha  	:	 671
+Saha, I.  	:	 629
+Sahay, Atul  	:	 697
+Sahu, Puja  	:	 374
+Sahu, Puja  	:	 420
+Saini, Pratibha  	:	 346
+Saligrama, Venkatesh  	:	 437
+Salsingikar, Shripad  	:	 549
+Salsingikar, Shripad  	:	 459
+Sanap, Ganesh  	:	 444
+Raman Sankaran  	:	 707
+Raman Sankaran  	:	 536
+Santosh, SV Sai 	:	 696
+Santra, Shubhrajit  	:	 693
+Santuka, Ruchir  	:	 347
+Sarangi, S.  	:	 650
+Sarangi, Sudipta  	:	 667
+Saraph, Prasad V 	:	 297
+Sarkar, A 	:	 269
+Saroop, A 	:	 199
+Sathishkumar, L.  	:	 391
+Sathishkumar Lakshmanan  	:	 554
+Saunderson, James  	:	 729
+Sawal, Nikhil  	:	 387
+Sawant, Suneet  	:	 530
+Sawant, Devesh  	:	 721
+Schlange, Christian  	:	 313
+Schuette, Andreas  	:	 312
+Sehgal, S 	:	 200
+Sen, Goutam  	:	 362
+Sen, Goutam  	:	 367
+A.J. Shaiju  	:	 498
+Shaiju, A J 	:	 291
+Meenarli Sharma  	:	 544
+Sharma, Anil Kumar 	:	 654
+Sharma, Rohit  	:	 422
+Sharma, Kunal  	:	 328
+Sharma, Vivek  	:	 248
+Meenarli Sharma  	:	 399
+Sharma, Chhavi  	:	 621
+Sharma, Vinod  	:	 338
+Sheetal, Dharmatti  	:	 279
+Sheetal, D.  	:	 504
+Shekhar, S  	:	 455
+Shelar, Devendra  	:	 306
+Shenoy, M 	:	 213
+Sheth, Geeta  	:	 740
+Shetty, Prakash  	:	 704
+Shevade, Shirish  	:	 509
+Shinde, Nimita  	:	 727
+Shiradkar, Narendra  	:	 598
+Shiradkar, Sayli  	:	 594
+Singh, Vikas kumar 	:	 705
+Vartika Singh  	:	 668
+Singh, Vipin K 	:	 245
+Singh, Sukriti  	:	 607
+Singh, Anupam  	:	 710
+Singh, Tilak Raj  	:	 311
+Singh, Ankur  	:	 249
+Singh, Anurendra  	:	 753
+Singh, Gaurav  	:	 287
+Singh, Tilak Raj 	:	 569
+Singh, A  	:	 456
+Vartika Singh  	:	 581
+Singh, Vikas Vikram  	:	 301
+Singhal, Shiksha  	:	 588
+Singla, Gourav  	:	 202
+Sinha, Smriti  	:	 739
+Sinha, Deeksha  	:	 483
+Sinha, Raman Kumar 	:	 471
+Sinha, Sudhir  	:	 134
+Smyth, W F 	:	 323
+Sohoni, Milind  	:	 171
+Solanki, Chetan S 	:	 390
+Solanki, Chetan S. 	:	 398
+Soman, S A 	:	 115
+Son, Young-Jun  	:	 156
+Song, H. S. 	:	 564
+Srijith, P. K. 	:	 512
+Srinivas, Santosh  	:	 267
+Srinivasan, M M 	:	 186
+Srivastava, N K 	:	 158
+Srivastava, A K 	:	 196
+Srivatsav, Ratnesh  	:	 602
+Subash Babu, A  	:	 206
+Subramanian, Swapnesh  	:	 450
+Sudarshan, P  	:	 453
+Sundar, S 	:	 360
+Sundararajan, S.  	:	 514
+Sundareshan, Rajesh  	:	 486
+Sunoj, Raghavan B. 	:	 613
+Surendra, N V 	:	 174
+Suresh, J R 	:	 165
+Suresh Kumar, K 	:	 270
+Suzuki, Taiji  	:	 539
+Szepesvari, Csaba  	:	 436
+T.S.Chandrashekar 	:	 298
+Tammineni, S 	:	 140
+Tandra, R 	:	 161
+Telagamsetti, Satish  	:	 597
+Tew, J D 	:	 160
+Thakare, Sayali  	:	 738
+Thakkar, Dhawal Manish 	:	 620
+Thakkar, Dhawal M. 	:	 743
+Thomas, Anu  	:	 285
+Sandhya Tripathi  	:	 418
+Tripathi, Jai Narayan  	:	 348
+Sandhya Tripathi  	:	 404
+Trivedi, Prashant  	:	 590
+Upasany, Akshay Vilas 	:	 752
+Usulumarty, Deepa  	:	 443
+Utkarsh, Verma  	:	 640
+Vanam, Krishna Chaitanya  	:	 343
+Vanga, Ratnaji  	:	 333
+Vaze, Rahul  	:	 438
+Veeraruna Kavitha 	:	 320
+Vemu, K R 	:	 127
+Venkateswaran, Jayendran  	:	 98
+Venkateswararao, M.  	:	 479
+Verma, Hansraj Satyam 	:	 673
+Verma, Arun  	:	 534
+Verma, Abhishek S 	:	 316
+Verma, D K 	:	 356
+Verma, U  	:	 643
+Verma, Harsh  	:	 715
+Verma, Arun  	:	 683
+Verma, Utkarsh  	:	 442
+Verma, Utkarsh  	:	 574
+Vidyadhar, R.  	:	 409
+Vignesh, B 	:	 253
+Vijayakumar, Pramod  	:	 239
+Vinod, Gopika  	:	 755
+Viswanadham, N 	:	 197
+Vora, Mustafa  	:	 745
+Waanders, Bart van Bloeme 	:	 548
+Wadhwa, Gurkirat  	:	 754
+Walunj, Tushar Shankar 	:	 749
+Werner, Kelsey  	:	 414
+Wysk, Richard A 	:	 157
+Yadama, Gautam N. 	:	 413
+Yadama, Gautam  	:	 618
+Yadav, Sharvan  	:	 553
+Yaseen, K 	:	 129
+Zambre, Mayur  	:	 489
+Zhao, Xiaobing  	:	 112
+Zhu, Q.  	:	 631
+Zhu, Quanyan  	:	 470
+Zlatanov, Nikola  	:	 709

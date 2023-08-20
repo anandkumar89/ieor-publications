@@ -1,0 +1,78 @@
+Counter({'arXiv-preprint': 8
+nan: 5
+'XXIII Annual International Conference of the Society of Operations Management': 3
+'European Journal of Operational Research': 2
+'Energy for Sustainable Development': 2
+'2022 14th International Conference on COMmunication Systems \\& NETworkS (COMSNETS)': 2
+'Dynamic Games and Applications': 2
+'OPSEARCH': 2
+'Performance Evaluation': 2
+'International Journal of Game Theory': 2
+'38th International Conference of the System Dynamics Society': 2
+'Annals of Operations Research': 2
+'Computer Communications': 2
+'SOM-IMTH Summer School in Operations and Supply Chain Management Research': 2
+'29th European Conference on Operational Research (EURO 2018)': 2
+'Operations Research Letters': 1
+'Informs Transactions on Education': 1
+'BMC Med Inform Decis Mak': 1
+'International Conference on Operations Research - OR 2022': 1
+'6th AIROYoung Workshop': 1
+'32nd European Conference on Operational Research (EURO 2022)': 1
+'Indian Journal of Nephrology': 1
+'INFORMS Healthcare Conference 2021': 1
+'IFIP Networking 2021': 1
+'Resonance': 1
+'iScience': 1
+'IEEE Wireless Communications Letters': 1
+'European Network for Collaboration on Kidney Exchange Programmes (ENCKEP) Final Action Conference': 1
+'Advances in Neural Information Processing Systems': 1
+'SIAM Journal on Mathematics of Data Science': 1
+'IEEE Transactions on Industrial Informatics': 1
+'IEEE Transactions on Automatic Control': 1
+'IFAC-PapersOnLine': 1
+'IEEE Transactions on Communications': 1
+'Computers and Operations Research': 1
+'Mathematical Programming': 1
+'Renewable and Sustainable Energy Reviews': 1
+'IEEE Control Systems Letters': 1
+'Computers \\& Industrial Engineering': 1
+'Queueing Systems: Theory and Applications, QUESTA': 1
+'Mathematical Methods of Operations Research': 1
+'Proceedings of 2020 IEEE International Conference on Big Data (Big Data), Special Session on Explainable Artificial Intelligence in Safety Critical Systems 978-1-7281-6251-5/20/$31.00
+5463--5472': 1
+'Central European Journal of Operations Research': 1
+'Journal of Scientific Research (BHU)': 1
+'Transportation Research Procedia': 1
+'2nd International conference on Rural Technology Development and Delivery ': 1
+'ACM Trans. Model. Perform. Eval. Comput. Syst': 1
+'Proceedings of the National Academy of Sciences': 1
+'Energy and Buildings': 1
+'Journal of Payments Strategy and System': 1
+'IEEE Transactions on Cognitive Communications and Networking': 1
+'OR-2019': 1
+'Proceedings of the 5th IEEE Indian Control Conference (ICC)': 1
+'World Development': 1
+'52nd Annual Convention of Operational Research Society of India \\& International Conference (ORSI 2019), Ahmedabad 15-18 December, 2019': 1
+'30th European Conference on Operational Research (EURO 2019)': 1
+'Global Optimization': 1
+'IEEE Transactions on Mobile Computing': 1
+'IEEE Journal on Selected Areas in Communications': 1
+'Proceedings of The Eleventh Asian Conference on Machine Learning': 1
+'Combinatorial Game Theory Colloquium III': 1
+'Transport Policy': 1
+'Sadhana': 1
+'Energy Research \\& Social Science': 1
+'51st Annual Convention of Operational Research Society of India \\& International Conference (ORSI 2018)': 1
+'Operations Research Society of India Conference': 1
+'Arthshastra Indian Journal of Economics \\& Research': 1
+'JOURNAL OF FINANCIAL MARKET INFRASTRUCTURES': 1
+'8th VOCAL Optimization Conference: Advanced Algorithms': 1
+'IISE Transactions on Healthcare Systems Engineering': 1
+'Current Science': 1
+'Indian Journal of Transplantation': 1
+'51st Annual Convention of Operational Research Society of India and International Conference (ORSI 2018)': 1
+'Computational Economics': 1
+'Communication Systems and Networks': 1
+'8th International Conference on Business Analytics and Intelligence (ICBAI) Conference': 1
+'4th Lancaster Game Theory Conference (LGTC2018)': 1})

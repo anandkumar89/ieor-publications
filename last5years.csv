@@ -1,0 +1,1300 @@
+,id,title,journal,year,authors,kind,extra,auth
+0,0,Almost exact risk budgeting with return forecasts for portfolio allocation,Operations Research Letters,2023,Avinash Bhardwaj and Manjesh Kumar Hanawal and Purushottam Parthasarathy,article,"@article {2843,
+	title = {Almost exact risk budgeting with return forecasts for portfolio allocation},
+	journal = {Operations Research Letters},
+	volume = {51},
+	year = {2023},
+	pages = {171-175},
+	doi = {https://doi.org/10.1016/j.orl.2023.02.002},
+	author = {Avinash Bhardwaj and Manjesh Kumar Hanawal and Purushottam Parthasarathy}
+}","['Avinash Bhardwaj', 'Manjesh Kumar Hanawal', 'Purushottam Parthasarathy']"
+1,1,Approximate solutions to constrained risk-sensitive Markov decision processes,European Journal of Operational Research,2023,Uday M Kumar and Sanjay P Bhat and Veeraruna Kavitha and Nandyala Hemachandra,article,"@article {2846,
+	title = {Approximate solutions to constrained risk-sensitive Markov decision processes},
+	journal = {European Journal of Operational Research},
+	volume = {310},
+	year = {2023},
+	pages = {249-267},
+	doi = {https://doi.org/10.1016/j.ejor.2023.02.039},
+	author = {Uday M Kumar and Sanjay P Bhat and Veeraruna Kavitha and Nandyala Hemachandra}
+}","['Uday M Kumar', 'Sanjay P Bhat', 'Veeraruna Kavitha', 'Nandyala Hemachandra']"
+2,2,"Dynamics of solar energy entrepreneurship in rural Bihar, India",Energy for Sustainable Development,2023,Rajat Mishra and Sayli Shiradkar and Kelsey Werner and Tresa Maria and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki,article,"@article {2869,
+	title = {Dynamics of solar energy entrepreneurship in rural Bihar, India},
+	journal = {Energy for Sustainable Development},
+	volume = {76},
+	year = {2023},
+	month = {10/2023},
+	pages = {101269},
+	keywords = {Causal loop diagram, Community based system dynamics, Energy transition, Rural entrepreneurship, Solar lamps},
+	issn = {0973-0826},
+	doi = {https://doi.org/10.1016/j.esd.2023.101269},
+	url = {https://www.sciencedirect.com/science/article/pii/S0973082623001266},
+	author = {Rajat Mishra and Sayli Shiradkar and Kelsey Werner and Tresa Maria and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Rajat Mishra', 'Sayli Shiradkar', 'Kelsey Werner', 'Tresa Maria', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+3,3,An OR Approach for WORdle,Informs Transactions on Education,2023,Simran Lakhani and Mustafa Vora and Ashutosh Mahajan,article,"@article {2831,
+	title = {An OR Approach for WORdle},
+	journal = {Informs Transactions on Education},
+	year = {2023},
+	month = {4/2023},
+	doi = {https://doi.org/10.1287/ited.2023.0285},
+	author = {Simran Lakhani and Mustafa Vora and Ashutosh Mahajan}
+}","['Simran Lakhani', 'Mustafa Vora', 'Ashutosh Mahajan']"
+4,4,Choice of Intraoperative Ultrasound adjuncts for Brain Tumor Surgery,BMC Med Inform Decis Mak,2022,Manoj Kumar and Santosh noronha and Narayan Rangaraj and Aliasgar Moiyadi and Prakash Shetty and Vikas kumar Singh,article,"@article {2643,
+	title = {Choice of Intraoperative Ultrasound adjuncts for Brain Tumor Surgery},
+	journal = {BMC Med Inform Decis Mak},
+	volume = {22},
+	year = {2022},
+	month = {11/2022},
+	type = {Research},
+	doi = {https://doi.org/10.1186/s12911-022-02046-7},
+	author = {Manoj Kumar and Santosh noronha and Narayan Rangaraj and Aliasgar Moiyadi and Prakash Shetty and Vikas kumar Singh}
+}","['Manoj Kumar', 'Santosh noronha', 'Narayan Rangaraj', 'Aliasgar Moiyadi', 'Prakash Shetty', 'Vikas kumar Singh']"
+5,5,Data-Driven treatment policies for Dialysis patients,International Conference on Operations Research - OR 2022,2022,"Manoj Kumar and Usulumarty, Deepa and Ravi, B and Billa, Viswanath and Narayan Rangaraj and Santosh noronha",article,"@article {2658,
+	title = {Data-Driven treatment policies for Dialysis patients},
+	journal = {International Conference on Operations Research - OR 2022},
+	year = {2022},
+	address = {Karlsruhe, Germany},
+	author = {Manoj Kumar and Usulumarty, Deepa and Ravi, B and Billa, Viswanath and Narayan Rangaraj and Santosh noronha}
+}","['Manoj Kumar', 'Usulumarty, Deepa', 'Ravi, B', 'Billa, Viswanath', 'Narayan Rangaraj', 'Santosh noronha']"
+6,6,Evading Malware Analysis Using Reverse Execution,2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS),2022,"Mishra, Adhokshaj and Roy, Animesh and Manjesh Kumar Hanawal",article,"@article {2655,
+	title = {Evading Malware Analysis Using Reverse Execution},
+	journal = {2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2022},
+	publisher = {IEEE},
+	author = {Mishra, Adhokshaj and Roy, Animesh and Manjesh Kumar Hanawal}
+}","['Mishra, Adhokshaj', 'Roy, Animesh', 'Manjesh Kumar Hanawal']"
+7,7,Exact and heuristic approaches for the Railway crew scheduling,6th AIROYoung Workshop,2022,Akshat Bansal and Anoop K. P. and Narayan Rangaraj,article,"@article {2665,
+	title = {Exact and heuristic approaches for the Railway crew scheduling},
+	journal = {6th AIROYoung Workshop},
+	year = {2022},
+	address = {Rome, Italy},
+	author = {Akshat Bansal and Anoop K. P. and Narayan Rangaraj}
+}","['Akshat Bansal', 'Anoop K. P.', 'Narayan Rangaraj']"
+8,8,Exploiting Side Information for Improved Online Learning Algorithms in Wireless Networks,arXiv-preprint,2022,Manjesh Kumar Hanawal and Sumit J. Darak,article,"@article {2653,
+	title = {Exploiting Side Information for Improved Online Learning Algorithms in Wireless Networks},
+	journal = {arXiv-preprint},
+	year = {2022},
+	author = {Manjesh Kumar Hanawal and Sumit J. Darak}
+}","['Manjesh Kumar Hanawal', 'Sumit J. Darak']"
+9,9,Multi-Agent Natural Actor-Critic Reinforcement Learning Algorithms,Dynamic Games and Applications,2022,Prashant Trivedi and Nandyala Hemachandra,article,"@article {2683,
+	title = {Multi-Agent Natural Actor-Critic Reinforcement Learning Algorithms},
+	journal = {Dynamic Games and Applications},
+	year = {2022},
+	month = {06/2022},
+	doi = {https://doi.org/10.1007/s13235-022-00449-9},
+	url = {https://link.springer.com/article/10.1007/s13235-022-00449-9},
+	author = {Prashant Trivedi and Nandyala Hemachandra}
+}","['Prashant Trivedi', 'Nandyala Hemachandra']"
+10,10,Multi-modal supply chain distribution problem,OPSEARCH,2022,Hussain A. Kharodawala and Ashutosh Mahajan and Jayan Moorkanat,article,"@article {2868,
+	title = {Multi-modal supply chain distribution problem},
+	journal = {OPSEARCH},
+	volume = {59},
+	year = {2022},
+	pages = {747-768},
+	author = {Hussain A. Kharodawala and Ashutosh Mahajan and Jayan Moorkanat}
+}","['Hussain A. Kharodawala', 'Ashutosh Mahajan', 'Jayan Moorkanat']"
+11,11,Multi-player age-of-information bandits: A trekking approach,2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS),2022,"Gudwani, Hitesh and Manjesh Kumar Hanawal and Sharayu Moharir",article,"@article {2651,
+	title = {Multi-player age-of-information bandits: A trekking approach},
+	journal = {2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2022},
+	publisher = {IEEE},
+	author = {Gudwani, Hitesh and Manjesh Kumar Hanawal and Sharayu Moharir}
+}","['Gudwani, Hitesh', 'Manjesh Kumar Hanawal', 'Sharayu Moharir']"
+12,12,Optimizing large scale upgradations involving movable assets,OPSEARCH,2022,Swapnesh Subramanian and Narayan Rangaraj,article,"@article {2604,
+	title = {Optimizing large scale upgradations involving movable assets},
+	journal = {OPSEARCH},
+	year = {2022},
+	pages = {1-15},
+	author = {Swapnesh Subramanian and Narayan Rangaraj}
+}","['Swapnesh Subramanian', 'Narayan Rangaraj']"
+13,13,Railway crew scheduling: A case study of Indian Railways,32nd European Conference on Operational Research (EURO 2022),2022,Akshat Bansal and Anoop K. P. and Narayan Rangaraj,article,"@article {2666,
+	title = {Railway crew scheduling: A case study of Indian Railways},
+	journal = {32nd European Conference on Operational Research (EURO 2022)},
+	year = {2022},
+	address = {Espoo, Finland},
+	author = {Akshat Bansal and Anoop K. P. and Narayan Rangaraj}
+}","['Akshat Bansal', 'Anoop K. P.', 'Narayan Rangaraj']"
+14,14,A unified citywide dashboard for allocation and scheduling dialysis for COVID-19 patients on maintenance hemodialysis,Indian Journal of Nephrology,2022,"Billa, Viswanath and Santosh noronha and Shrirang Bichu and Kothari, Jatin and rajesh Kumar and Kalpana Mehta and Tukaram Jamale and Nikhil Bhasin and Sayali Thakare and Smriti Sinha and Geeta Sheth and Narayan Rangaraj",article,"@article {2667,
+	title = {A unified citywide dashboard for allocation and scheduling dialysis for COVID-19 patients on maintenance hemodialysis},
+	journal = {Indian Journal of Nephrology},
+	year = {2022},
+	url = { https://www.indianjnephrol.org/preprintarticle.asp?id=334844},
+	author = {Billa, Viswanath and Santosh noronha and Shrirang Bichu and Kothari, Jatin and rajesh Kumar and Kalpana Mehta and Tukaram Jamale and Nikhil Bhasin and Sayali Thakare and Smriti Sinha and Geeta Sheth and Narayan Rangaraj}
+}","['Billa, Viswanath', 'Santosh noronha', 'Shrirang Bichu', 'Kothari, Jatin', 'rajesh Kumar', 'Kalpana Mehta', 'Tukaram Jamale', 'Nikhil Bhasin', 'Sayali Thakare', 'Smriti Sinha', 'Geeta Sheth', 'Narayan Rangaraj']"
+15,15,Analysis Of Multi-registry Kidney Exchange Programs With Individual Rationality Constraints,INFORMS Healthcare Conference 2021,2021,"Verma, Utkarsh and Narayan Rangaraj",article,"@article {2474,
+	title = {Analysis Of Multi-registry Kidney Exchange Programs With Individual Rationality Constraints},
+	journal = {INFORMS Healthcare Conference 2021},
+	year = {2021},
+	address = {Indianapolis, US. (Virtual)},
+	author = {Verma, Utkarsh and Narayan Rangaraj}
+}","['Verma, Utkarsh', 'Narayan Rangaraj']"
+16,16,Censored Semi-Bandits for Resource Allocation,arXiv-preprint,2021,"Verma, Arun and Manjesh Kumar Hanawal and Arun Rajkumar and Raman Sankaran",article,"@article {2645,
+	title = {Censored Semi-Bandits for Resource Allocation},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Arun Rajkumar and Raman Sankaran}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Arun Rajkumar', 'Raman Sankaran']"
+17,17,Coalition formation resource sharing games in networks,Performance Evaluation,2021,Shiksha Singhal and Veeraruna Kavitha,article,"@article {2624,
+	title = {Coalition formation resource sharing games in networks},
+	journal = {Performance Evaluation},
+	volume = {152},
+	year = {2021},
+	month = {12/2021},
+	author = {Shiksha Singhal and Veeraruna Kavitha}
+}","['Shiksha Singhal', 'Veeraruna Kavitha']"
+18,18,Continuous Time Bandits With Sampling Costs,arXiv-preprint,2021,"Vaze, Rahul and Manjesh Kumar Hanawal",article,"@article {2641,
+	title = {Continuous Time Bandits With Sampling Costs},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Vaze, Rahul and Manjesh Kumar Hanawal}
+}","['Vaze, Rahul', 'Manjesh Kumar Hanawal']"
+19,19,Co-Virality of Competing Content over OSNs?,IFIP Networking 2021,2021,"Agarwal, Khushboo and Veeraruna Kavitha",article,"@article {2445,
+	title = {Co-Virality of Competing Content over OSNs?},
+	journal = {IFIP Networking 2021},
+	year = {2021},
+	author = {Agarwal, Khushboo and Veeraruna Kavitha}
+}","['Agarwal, Khushboo', 'Veeraruna Kavitha']"
+20,20,Discrete Richman-bidding scoring games,International Journal of Game Theory,2021,"Ravi Kant Rai and Larsson, Urban and Patel, Neel",article,"@article {2388,
+	title = {Discrete Richman-bidding scoring games},
+	journal = {International Journal of Game Theory},
+	year = {2021},
+	month = {2021/01/12},
+	isbn = {1432-1270},
+	url = {https://doi.org/10.1007/s00182-020-00753-x},
+	author = {Ravi Kant Rai and Larsson, Urban and Patel, Neel}
+}","['Ravi Kant Rai', 'Larsson, Urban', 'Patel, Neel']"
+21,21,Extremality of Prime Factorization,Resonance,2021,K. S. Mallikarjuna Rao,article,"@article {2622,
+	title = {Extremality of Prime Factorization},
+	journal = {Resonance},
+	volume = {26},
+	year = {2021},
+	month = {12/2021},
+	pages = {1643-1648},
+	author = {K. S. Mallikarjuna Rao}
+}",['K. S. Mallikarjuna Rao']
+22,22,FairNet: A Measurement Framework for Traffic Discrimination Detection on the Internet,arXiv-preprint,2021,Vinod S. Khandkar and Manjesh Kumar Hanawal,article,"@article {2636,
+	title = {FairNet: A Measurement Framework for Traffic Discrimination Detection on the Internet},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Vinod S. Khandkar and Manjesh Kumar Hanawal}
+}","['Vinod S. Khandkar', 'Manjesh Kumar Hanawal']"
+23,23,Federated learning for intrusion detection in IoT security: a hybrid ensemble approach,arXiv-preprint,2021,"Chatterjee, Sayan and Manjesh Kumar Hanawal",article,"@article {2642,
+	title = {Federated learning for intrusion detection in IoT security: a hybrid ensemble approach},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Chatterjee, Sayan and Manjesh Kumar Hanawal}
+}","['Chatterjee, Sayan', 'Manjesh Kumar Hanawal']"
+24,24,A journey towards Energy Swaraj (independence): Energy by locals for locals,iScience,2021,Chetan S. Solanki and Nikita Arora and Swati Kalwar and Jayendran Venkateswaran,article,"@article {2619,
+	title = {A journey towards Energy Swaraj (independence): Energy by locals for locals},
+	journal = {iScience},
+	volume = {24},
+	year = {2021},
+	month = {10/2021},
+	doi = {https://doi.org/10.1016/j.isci.2021.103187},
+	author = {Chetan S. Solanki and Nikita Arora and Swati Kalwar and Jayendran Venkateswaran}
+}","['Chetan S. Solanki', 'Nikita Arora', 'Swati Kalwar', 'Jayendran Venkateswaran']"
+25,25,Learning to optimize energy efficiency in energy harvesting wireless sensor networks,IEEE Wireless Communications Letters,2021,"Debamita Ghosh and Manjesh Kumar Hanawal and Zlatanov, Nikola",article,"@article {2646,
+	title = {Learning to optimize energy efficiency in energy harvesting wireless sensor networks},
+	journal = {IEEE Wireless Communications Letters},
+	volume = {10},
+	year = {2021},
+	pages = {1153{\textendash}1157},
+	author = {Debamita Ghosh and Manjesh Kumar Hanawal and Zlatanov, Nikola}
+}","['Debamita Ghosh', 'Manjesh Kumar Hanawal', 'Zlatanov, Nikola']"
+26,26,Long term simulation analysis of deceased donor initiated chains in kidney exchange programs,European Network for Collaboration on Kidney Exchange Programmes (ENCKEP) Final Action Conference,2021,"Verma, Utkarsh and Narayan Rangaraj",article,"@article {2475,
+	title = {Long term simulation analysis of deceased donor initiated chains in kidney exchange programs},
+	journal = {European Network for Collaboration on Kidney Exchange Programmes (ENCKEP) Final Action Conference},
+	year = {2021},
+	address = {Virtual},
+	author = {Verma, Utkarsh and Narayan Rangaraj}
+}","['Verma, Utkarsh', 'Narayan Rangaraj']"
+27,27,Memory-Efficient Approximation Algorithms for Max-k-Cut and Correlation Clustering,Advances in Neural Information Processing Systems,2021,"Shinde, Nimita and Vishnu Narayanan and Saunderson, James",article,"@article {2660,
+	title = {Memory-Efficient Approximation Algorithms for Max-k-Cut and Correlation Clustering},
+	journal = {Advances in Neural Information Processing Systems},
+	volume = {34},
+	year = {2021},
+	author = {Shinde, Nimita and Vishnu Narayanan and Saunderson, James}
+}","['Shinde, Nimita', 'Vishnu Narayanan', 'Saunderson, James']"
+28,28,Memory-efficient structured convex optimization via extreme point sampling,SIAM Journal on Mathematics of Data Science,2021,"Shinde, Nimita and Vishnu Narayanan and Saunderson, James",article,"@article {2663,
+	title = {Memory-efficient structured convex optimization via extreme point sampling},
+	journal = {SIAM Journal on Mathematics of Data Science},
+	volume = {3},
+	year = {2021},
+	pages = {787{\textendash}814},
+	author = {Shinde, Nimita and Vishnu Narayanan and Saunderson, James}
+}","['Shinde, Nimita', 'Vishnu Narayanan', 'Saunderson, James']"
+29,29,Minotaur: a mixed-integer nonlinear optimization toolkit,,2021,Ashutosh Mahajan and Sven Leyffer and Jeff Linderoth and James Luedtke and Todd Munson,article,"@article {2634,
+	title = {Minotaur: a mixed-integer nonlinear optimization toolkit},
+	volume = {13},
+	year = {2021},
+	month = {2021/06/01},
+	pages = {301 - 338},
+	isbn = {1867-2957},
+	url = {https://doi.org/10.1007/s12532-020-00196-1},
+	author = {Ashutosh Mahajan and Sven Leyffer and Jeff Linderoth and James Luedtke and Todd Munson}
+}","['Ashutosh Mahajan', 'Sven Leyffer', 'Jeff Linderoth', 'James Luedtke', 'Todd Munson']"
+30,30,Monitoring COVID Hotspots Using Telecom Data: Voronoi Tessellations for Marking Buffer Zones,,2021,"Singh, Anupam and Manjesh Kumar Hanawal",article,"@article {2648,
+	title = {Monitoring COVID Hotspots Using Telecom Data: Voronoi Tessellations for Marking Buffer Zones},
+	year = {2021},
+	author = {Singh, Anupam and Manjesh Kumar Hanawal}
+}","['Singh, Anupam', 'Manjesh Kumar Hanawal']"
+32,32,Multi-Play Multi-Armed Bandit Algorithm Based Sensing of Non-Contiguous Wideband Spectrum for AIoT Networks,IEEE Transactions on Industrial Informatics,2021,"Joshi, Himani and Santra, Shubhrajit and Sumit J. Darak and Manjesh Kumar Hanawal and Santosh, SV Sai",article,"@article {2639,
+	title = {Multi-Play Multi-Armed Bandit Algorithm Based Sensing of Non-Contiguous Wideband Spectrum for AIoT Networks},
+	journal = {IEEE Transactions on Industrial Informatics},
+	year = {2021},
+	author = {Joshi, Himani and Santra, Shubhrajit and Sumit J. Darak and Manjesh Kumar Hanawal and Santosh, SV Sai}
+}","['Joshi, Himani', 'Santra, Shubhrajit', 'Sumit J. Darak', 'Manjesh Kumar Hanawal', 'Santosh, SV Sai']"
+33,33,Multi-player bandits: A trekking approach,IEEE Transactions on Automatic Control,2021,Manjesh Kumar Hanawal and Sumit J. Darak,article,"@article {2644,
+	title = {Multi-player bandits: A trekking approach},
+	journal = {IEEE Transactions on Automatic Control},
+	year = {2021},
+	author = {Manjesh Kumar Hanawal and Sumit J. Darak}
+}","['Manjesh Kumar Hanawal', 'Sumit J. Darak']"
+34,34,New results in Branching processes using Stochastic Approximation,arXiv-preprint,2021,"Agarwal, Khushboo and Veeraruna Kavitha",article,"@article {2628,
+	title = {New results in Branching processes using Stochastic Approximation},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Agarwal, Khushboo and Veeraruna Kavitha}
+}","['Agarwal, Khushboo', 'Veeraruna Kavitha']"
+35,35,Port selection for optimal charging/discharging and external communication in single-integrator graphs networks,IFAC-PapersOnLine,2021,P Sudarshan and Sandeep Kumar and Madhu Belur and Narayan Rangaraj,article,"@article {2657,
+	title = {Port selection for optimal charging/discharging and external communication in single-integrator graphs networks},
+	journal = {IFAC-PapersOnLine},
+	volume = {54},
+	year = {2021},
+	month = {07/2021},
+	pages = {596-601},
+	author = {P Sudarshan and Sandeep Kumar and Madhu Belur and Narayan Rangaraj}
+}","['P Sudarshan', 'Sandeep Kumar', 'Madhu Belur', 'Narayan Rangaraj']"
+36,36,"Random fixed points, systemic risk and resilience of heterogeneous financial network",arXiv-preprint,2021,Indrajit Saha and Veeraruna Kavitha,article,"@article {2629,
+	title = {Random fixed points, systemic risk and resilience of heterogeneous financial network},
+	journal = {arXiv-preprint},
+	year = {2021},
+	author = {Indrajit Saha and Veeraruna Kavitha}
+}","['Indrajit Saha', 'Veeraruna Kavitha']"
+37,37,Regret of age-of-information bandits,IEEE Transactions on Communications,2021,"Fatale, Santosh and Bhandari, Kavya and Narula, Urvidh and Sharayu Moharir and Manjesh Kumar Hanawal",article,"@article {2637,
+	title = {Regret of age-of-information bandits},
+	journal = {IEEE Transactions on Communications},
+	year = {2021},
+	author = {Fatale, Santosh and Bhandari, Kavya and Narula, Urvidh and Sharayu Moharir and Manjesh Kumar Hanawal}
+}","['Fatale, Santosh', 'Bhandari, Kavya', 'Narula, Urvidh', 'Sharayu Moharir', 'Manjesh Kumar Hanawal']"
+38,38,Revenue sharing on the Internet: A case for going soft on neutrality regulations,Performance Evaluation,2021,"Fehmina Malik and Manjesh Kumar Hanawal and Hayel, Yezekael and Jayakrishnan Nair",article,"@article {2650,
+	title = {Revenue sharing on the Internet: A case for going soft on neutrality regulations},
+	journal = {Performance Evaluation},
+	volume = {145},
+	year = {2021},
+	pages = {102152},
+	author = {Fehmina Malik and Manjesh Kumar Hanawal and Hayel, Yezekael and Jayakrishnan Nair}
+}","['Fehmina Malik', 'Manjesh Kumar Hanawal', 'Hayel, Yezekael', 'Jayakrishnan Nair']"
+39,39,"A revised formulation, library and heuristic for a chemical tanker scheduling problem",Computers and Operations Research,2021,"Ladage, Anurag and Baatar, Davaatseren and Krishnamoorthy, Mohan and Ashutosh Mahajan",article,"@article {2633,
+	title = {A revised formulation, library and heuristic for a chemical tanker scheduling problem},
+	journal = {Computers and Operations Research},
+	volume = {133},
+	year = {2021},
+	month = {2021/09/01/},
+	keywords = {Integer programming, Maritime transportation, Scheduling with time-windows, Ship routing, Tank allocations, Tramp shipping},
+	isbn = {0305-0548},
+	url = {https://www.sciencedirect.com/science/article/pii/S0305054821001258},
+	author = {Ladage, Anurag and Baatar, Davaatseren and Krishnamoorthy, Mohan and Ashutosh Mahajan}
+}","['Ladage, Anurag', 'Baatar, Davaatseren', 'Krishnamoorthy, Mohan', 'Ashutosh Mahajan']"
+40,40,Submodular function minimization and polarity,Mathematical Programming,2021,"Alper Atamt{\""u}rk and Vishnu Narayanan",article,"@article {2661,
+	title = {Submodular function minimization and polarity},
+	journal = {Mathematical Programming},
+	year = {2021},
+	pages = {1{\textendash}11},
+	author = {Alper Atamt{\""u}rk and Vishnu Narayanan}
+}","['Alper Atamt{\\""u}rk', 'Vishnu Narayanan']"
+41,41,Who is willing to pay for solar lamps in rural India? A longitudinal study,Renewable and Sustainable Energy Reviews,2021,Rohit Sharma and Deepak Choudhary and Sayli Shiradkar and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki and Gautam N. Yadama,article,"@article {2620,
+	title = {Who is willing to pay for solar lamps in rural India? A longitudinal study},
+	journal = {Renewable and Sustainable Energy Reviews},
+	volume = {140},
+	year = {2021},
+	month = {04/2021},
+	doi = {https://doi.org/10.1016/j.rser.2021.110734.},
+	author = {Rohit Sharma and Deepak Choudhary and Sayli Shiradkar and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki and Gautam N. Yadama}
+}","['Rohit Sharma', 'Deepak Choudhary', 'Sayli Shiradkar', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki', 'Gautam N. Yadama']"
+43,43,Community-based Understanding of Solar Entrepreneurship Development Dynamics in Rural India,38th International Conference of the System Dynamics Society,2020,Rajat Mishra and Sayli Shiradkar and Jayendran Venkateswaran and Kelsey Werner,article,"@article {2377,
+	title = {Community-based Understanding of Solar Entrepreneurship Development Dynamics in Rural India},
+	journal = {38th International Conference of the System Dynamics Society},
+	year = {2020},
+	month = {07/2020},
+	type = {Full Paper but no proceeding},
+	address = {Virtual},
+	author = {Rajat Mishra and Sayli Shiradkar and Jayendran Venkateswaran and Kelsey Werner}
+}","['Rajat Mishra', 'Sayli Shiradkar', 'Jayendran Venkateswaran', 'Kelsey Werner']"
+44,44,Controlling Fake News by Collective Tagging: A Branching Process Analysis,IEEE Control Systems Letters,2020,"S. Kapsikar and Indrajit Saha and Agarwal, Khushboo and Veeraruna Kavitha and Q. Zhu",article,"@article {2338,
+	title = {Controlling Fake News by Collective Tagging: A Branching Process Analysis},
+	journal = {IEEE Control Systems Letters},
+	year = {2020},
+	doi = {10.1109/LCSYS.2020.3045299},
+	author = {S. Kapsikar and Indrajit Saha and Agarwal, Khushboo and Veeraruna Kavitha and Q. Zhu}
+}","['S. Kapsikar', 'Indrajit Saha', 'Agarwal, Khushboo', 'Veeraruna Kavitha', 'Q. Zhu']"
+45,45,Cooperative Ressource Sharing With Adamant Player,,2020,Shiksha Singhal and Veeraruna Kavitha,article,"@article {2345,
+	title = {Cooperative Ressource Sharing With Adamant Player},
+	year = {2020},
+	type = {Working paper},
+	author = {Shiksha Singhal and Veeraruna Kavitha}
+}","['Shiksha Singhal', 'Veeraruna Kavitha']"
+46,46,Designing robust policies under deep uncertainty for mitigating epidemics,Computers \& Industrial Engineering,2020,Siddhartha Paul and Jayendran Venkateswaran,article,"@article {2146,
+	title = {Designing robust policies under deep uncertainty for mitigating epidemics},
+	journal = {Computers \& Industrial Engineering},
+	volume = {140},
+	year = {2020},
+	month = {02/2020},
+	keywords = {Deep uncertainty, Epidemic model, Exploratory modelling and analysis, Integrated models, Scenario discovery analysis, Supply Chain Management},
+	doi = {https://doi.org/10.1016/j.cie.2019.106221},
+	author = {Siddhartha Paul and Jayendran Venkateswaran}
+}","['Siddhartha Paul', 'Jayendran Venkateswaran']"
+47,47,Equilibrium points and equilibrium sets of some GI/M/1 queues,"Queueing Systems: Theory and Applications, QUESTA",2020,Nandyala Hemachandra and Kishor Patil and Sandhya Tripathi,article,"@article {2370,
+	title = {Equilibrium points and equilibrium sets of some GI/M/1 queues},
+	journal = {Queueing Systems: Theory and Applications, QUESTA},
+	year = {2020},
+	doi = { http://dx.doi.org/10.1007/s11134-020-09677-5},
+	author = {Nandyala Hemachandra and Kishor Patil and Sandhya Tripathi}
+}","['Nandyala Hemachandra', 'Kishor Patil', 'Sandhya Tripathi']"
+48,48,On the facet defining inequalities of the mixed-integer bilinear covering set,Mathematical Methods of Operations Research,2020,H. Rahman and Ashutosh Mahajan,article,"@article {2302,
+	title = {On the facet defining inequalities of the mixed-integer bilinear covering set},
+	journal = {Mathematical Methods of Operations Research},
+	volume = {Online First},
+	year = {2020},
+	doi = {10.1007/s00186-020-00723-9},
+	author = {H. Rahman and Ashutosh Mahajan}
+}","['H. Rahman', 'Ashutosh Mahajan']"
+49,49,Fleet sizing of reusable articles under uncertain demand and turnaround times,European Journal of Operational Research,2020,Ratnaji vanga and Jayendran Venkateswaran,article,"@article {2177,
+	title = {Fleet sizing of reusable articles under uncertain demand and turnaround times},
+	journal = {European Journal of Operational Research},
+	volume = {285},
+	year = {2020},
+	pages = {566-582},
+	doi = {https://doi.org/10.1016/j.ejor.2020.02.004},
+	url = {https://www.sciencedirect.com/science/article/pii/S0377221720301223?via\%3Dihub},
+	author = {Ratnaji vanga and Jayendran Venkateswaran}
+}","['Ratnaji vanga', 'Jayendran Venkateswaran']"
+50,50,Interpretable feature subset selection: A Shapley value based approach,"Proceedings of 2020 IEEE International Conference on Big Data (Big Data), Special Session on Explainable Artificial Intelligence in Safety Critical Systems 978-1-7281-6251-5/20/$31.00, 5463--5472",2020,Sandhya Tripathi and Nandyala Hemachandra and Prashant Trivedi,article,"@article {2368,
+	title = {Interpretable feature subset selection: A Shapley value based approach},
+	journal = {Proceedings of 2020 IEEE International Conference on Big Data (Big Data), Special Session on Explainable Artificial Intelligence in Safety Critical Systems 978-1-7281-6251-5/20/$31.00, 5463--5472},
+	year = {2020},
+	address = {Atlanta, GA, USA},
+	author = {Sandhya Tripathi and Nandyala Hemachandra and Prashant Trivedi}
+}","['Sandhya Tripathi', 'Nandyala Hemachandra', 'Prashant Trivedi']"
+51,51,Inversion of convection{\textendash}diffusion equation with discrete sources,,2020,"Meenarli Sharma and Hahn, Mirko and Sven Leyffer and Ruthotto, Lars and van Bloemen Waanders, Bart",article,"@article {2271,
+	title = {Inversion of convection{\textendash}diffusion equation with discrete sources},
+	year = {2020},
+	month = {2020/07/25},
+	isbn = {1573-2924},
+	url = {https://doi.org/10.1007/s11081-020-09536-5},
+	author = {Meenarli Sharma and Hahn, Mirko and Sven Leyffer and Ruthotto, Lars and van Bloemen Waanders, Bart}
+}","['Meenarli Sharma', 'Hahn, Mirko', 'Sven Leyffer', 'Ruthotto, Lars', 'van Bloemen Waanders, Bart']"
+52,52,IP solutions for international kidney exchange programmes,Central European Journal of Operations Research,2020,"Mincu, Radu Stefan and Bir{\'o}, P{\'e}ter and Gyetvai, M{\'a}rton and Popa, Alexandru and Verma, Utkarsh",article,"@article {2322,
+	title = {IP solutions for international kidney exchange programmes},
+	journal = {Central European Journal of Operations Research},
+	year = {2020},
+	month = {2020/08/31},
+	pages = {1-21},
+	keywords = {Kidney exchange program},
+	isbn = {1613-9178},
+	doi = {10.1007/s10100-020-00706-5},
+	url = {https://doi.org/10.1007/s10100-020-00706-5},
+	author = {Mincu, Radu Stefan and Bir{\'o}, P{\'e}ter and Gyetvai, M{\'a}rton and Popa, Alexandru and Verma, Utkarsh}
+}","['Mincu, Radu Stefan', ""Bir{\\'o}, P{\\'e}ter"", ""Gyetvai, M{\\'a}rton"", 'Popa, Alexandru', 'Verma, Utkarsh']"
+53,53,Middlemen in Cooperative Games,Journal of Scientific Research (BHU),2020,Surajit Borkotokey and L. Gogoi and R. Kumar and K. S. Mallikarjuna Rao and Sudipta Sarangi,article,"@article {2518,
+	title = {Middlemen in Cooperative Games},
+	journal = {Journal of Scientific Research (BHU)},
+	year = {2020},
+	pages = {297 - 304},
+	author = {Surajit Borkotokey and L. Gogoi and R. Kumar and K. S. Mallikarjuna Rao and Sudipta Sarangi}
+}","['Surajit Borkotokey', 'L. Gogoi', 'R. Kumar', 'K. S. Mallikarjuna Rao', 'Sudipta Sarangi']"
+55,55,Modelling Household Energy Consumption in areas with unreliable electricity supply,38th International Conference of the System Dynamics Society,2020,Arpit Agarwal and Jayendran Venkateswaran,article,"@article {2380,
+	title = {Modelling Household Energy Consumption in areas with unreliable electricity supply},
+	journal = {38th International Conference of the System Dynamics Society},
+	year = {2020},
+	month = {07/2020},
+	type = {Full Paper but no proceeding},
+	address = {Virtual},
+	author = {Arpit Agarwal and Jayendran Venkateswaran}
+}","['Arpit Agarwal', 'Jayendran Venkateswaran']"
+56,56,Real-time charging decision with Stochastic battery performance for Commercial Electric Vehicles,Transportation Research Procedia,2020,"Tejas Ghorpade and Narayan Rangaraj and Singh, Tilak Raj",article,"@article {2321,
+	title = {Real-time charging decision with Stochastic battery performance for Commercial Electric Vehicles},
+	journal = {Transportation Research Procedia},
+	volume = {47},
+	year = {2020},
+	pages = {267 - 274},
+	keywords = {EVRP, Real-time Decision policy, Stochastic Battery Performance},
+	issn = {2352-1465},
+	doi = {https://doi.org/10.1016/j.trpro.2020.03.098},
+	url = {http://www.sciencedirect.com/science/article/pii/S2352146520302933},
+	author = {Tejas Ghorpade and Narayan Rangaraj and Singh, Tilak Raj}
+}","['Tejas Ghorpade', 'Narayan Rangaraj', 'Singh, Tilak Raj']"
+57,57,"Solar lamps for rural India: Longitudinal study on awareness, motivation and willingness to pay",2nd International conference on Rural Technology Development and Delivery ,2020,Rohit Sharma and Deepak Choudhary and Sayli Shiradkar and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki,article,"@article {2378,
+	title = {Solar lamps for rural India: Longitudinal study on awareness, motivation and willingness to pay},
+	journal = {2nd International conference on Rural Technology Development and Delivery },
+	year = {2020},
+	month = {03/2020},
+	type = {Full Paper but no proceeding},
+	address = {IIT Madras},
+	author = {Rohit Sharma and Deepak Choudhary and Sayli Shiradkar and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Rohit Sharma', 'Deepak Choudhary', 'Sayli Shiradkar', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+58,58,Some Parameterized Dynamic Priority Policies for Two-Class M/G/1 Queues: Completeness and Applications,ACM Trans. Model. Perform. Eval. Comput. Syst,2020,Manu Kumar Gupta and Nandyala Hemachandra and Jayendran Venkateswaran,article,"@article {2180,
+	title = {Some Parameterized Dynamic Priority Policies for Two-Class M/G/1 Queues: Completeness and Applications},
+	journal = {ACM Trans. Model. Perform. Eval. Comput. Syst},
+	volume = {5},
+	year = {2020},
+	month = {04/2020},
+	doi = {https://doi.org/10.1145/3384390},
+	author = {Manu Kumar Gupta and Nandyala Hemachandra and Jayendran Venkateswaran}
+}","['Manu Kumar Gupta', 'Nandyala Hemachandra', 'Jayendran Venkateswaran']"
+59,59,On Superiority and Weak Stability of Population States in Evolutionary Games,Annals of Operations Research,2020,Dharini Hingu and K. S. Mallikarjuna Rao and A.J. Shaiju,article,"@article {2517,
+	title = {On Superiority and Weak Stability of Population States in Evolutionary Games},
+	journal = {Annals of Operations Research},
+	volume = {287},
+	year = {2020},
+	pages = {751 - 760},
+	author = {Dharini Hingu and K. S. Mallikarjuna Rao and A.J. Shaiju}
+}","['Dharini Hingu', 'K. S. Mallikarjuna Rao', 'A.J. Shaiju']"
+60,60,A unified machine-learning protocol for asymmetric catalysis as a proof of concept demonstration using asymmetric hydrogenation,Proceedings of the National Academy of Sciences,2020,"Singh, Sukriti and Pareek, Monika and Changotra, Avtar and Banerjee, Sayan and Bhaskararao, Bangaru and Balamurugan, P. and Sunoj, Raghavan B.",article,"@article {2386,
+	title = {A unified machine-learning protocol for asymmetric catalysis as a proof of concept demonstration using asymmetric hydrogenation},
+	journal = {Proceedings of the National Academy of Sciences},
+	volume = {117},
+	year = {2020},
+	pages = {1339{\textendash}1345},
+	issn = {0027-8424},
+	doi = {10.1073/pnas.1916392117},
+	url = {https://www.pnas.org/content/117/3/1339},
+	author = {Singh, Sukriti and Pareek, Monika and Changotra, Avtar and Banerjee, Sayan and Bhaskararao, Bangaru and Balamurugan, P. and Sunoj, Raghavan B.}
+}","['Singh, Sukriti', 'Pareek, Monika', 'Changotra, Avtar', 'Banerjee, Sayan', 'Bhaskararao, Bangaru', 'Balamurugan, P.', 'Sunoj, Raghavan B.']"
+61,61,Adoption of solar photovoltaic lighting in rural India: Role of localization strategy,Energy and Buildings,2019,Lalita Joshi and N.C. Narayanan and Jayendran Venkateswaran and Chetan S. Solanki and Praveen Kumar,article,"@article {2042,
+	title = {Adoption of solar photovoltaic lighting in rural India: Role of localization strategy},
+	journal = {Energy and Buildings},
+	volume = {202},
+	year = {2019},
+	month = {11/2019},
+	doi = {https://doi.org/10.1016/j.enbuild.2019.109370},
+	author = {Lalita Joshi and N.C. Narayanan and Jayendran Venkateswaran and Chetan S. Solanki and Praveen Kumar}
+}","['Lalita Joshi', 'N.C. Narayanan', 'Jayendran Venkateswaran', 'Chetan S. Solanki', 'Praveen Kumar']"
+62,62,Cash Preference in India: Empirical Methods and Findings,Journal of Payments Strategy and System,2019,"Maiti, Sasanka Sekhar and Nandyala Hemachandra and Anil Kumar Sharma",article,"@article {2523,
+	title = {Cash Preference in India: Empirical Methods and Findings},
+	journal = {Journal of Payments Strategy and System},
+	volume = {13},
+	year = {2019},
+	month = {11/2019},
+	pages = {165-176},
+	author = {Maiti, Sasanka Sekhar and Nandyala Hemachandra and Anil Kumar Sharma}
+}","['Maiti, Sasanka Sekhar', 'Nandyala Hemachandra', 'Anil Kumar Sharma']"
+63,63,Cognitive Networks with In-band Full-duplex Radios: Jamming Attacks and Countermeasures,IEEE Transactions on Cognitive Communications and Networking,2019,Manjesh Kumar Hanawal and Diep N Nguyen and Marwan Krunz,article,"@article {2078,
+	title = {Cognitive Networks with In-band Full-duplex Radios: Jamming Attacks and Countermeasures},
+	journal = {IEEE Transactions on Cognitive Communications and Networking},
+	year = {2019},
+	author = {Manjesh Kumar Hanawal and Diep N Nguyen and Marwan Krunz}
+}","['Manjesh Kumar Hanawal', 'Diep N Nguyen', 'Marwan Krunz']"
+64,64,"Crew Planning for Commuter Rail Operations, a case study on Mumbai, India",OR-2019,2019,Naman Kasliwal and P Sudarshan and Madhu Belur and Narayan Rangaraj,article,"@article {2017,
+	title = {Crew Planning for Commuter Rail Operations, a case study on Mumbai, India},
+	journal = {OR-2019},
+	year = {2019},
+	month = {9/2019},
+	address = {Dresden, Germany},
+	author = {Naman Kasliwal and P Sudarshan and Madhu Belur and Narayan Rangaraj}
+}","['Naman Kasliwal', 'P Sudarshan', 'Madhu Belur', 'Narayan Rangaraj']"
+65,65,Demand Forecasting and end to end supply chain optimization in tractor manufacturing industry,XXIII Annual International Conference of the Society of Operations Management,2019,P Mallikarjuna Reddy and Jayendran Venkateswaran and Narayan Rangaraj and R Kale,article,"@article {2381,
+	title = {Demand Forecasting and end to end supply chain optimization in tractor manufacturing industry},
+	journal = {XXIII Annual International Conference of the Society of Operations Management},
+	year = {2019},
+	month = {12/2019},
+	type = {Abstract},
+	address = {IIT Kanpur},
+	author = {P Mallikarjuna Reddy and Jayendran Venkateswaran and Narayan Rangaraj and R Kale}
+}","['P Mallikarjuna Reddy', 'Jayendran Venkateswaran', 'Narayan Rangaraj', 'R Kale']"
+66,66,Development of a railway junction simulator for evaluation of control strategies and capacity utilization,Proceedings of the 5th IEEE Indian Control Conference (ICC),2019,S Shekhar and Abhishek Singh and Madhu Belur and Narayan Rangaraj,article,"@article {2018,
+	title = {Development of a railway junction simulator for evaluation of control strategies and capacity utilization},
+	journal = {Proceedings of the 5th IEEE Indian Control Conference (ICC)},
+	year = {2019},
+	month = {01/2019},
+	address = {Delhi},
+	author = {S Shekhar and Abhishek Singh and Madhu Belur and Narayan Rangaraj}
+}","['S Shekhar', 'Abhishek Singh', 'Madhu Belur', 'Narayan Rangaraj']"
+67,67,Do solar study lamps help children study at night? Evidence from rural India,Energy for Sustainable Development,2019,Rohit Sharma and Deepak Choudhary and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki,article,"@article {1969,
+	title = {Do solar study lamps help children study at night? Evidence from rural India},
+	journal = {Energy for Sustainable Development},
+	volume = {50},
+	year = {2019},
+	month = {06/2019},
+	pages = {109-116},
+	keywords = {Kerosene, Purposive random sampling, Rural India, Solar study lamp, Total study time},
+	doi = {https://doi.org/10.1016/j.esd.2019.03.005},
+	author = {Rohit Sharma and Deepak Choudhary and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Rohit Sharma', 'Deepak Choudhary', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+68,68,Does involvement of local community ensure sustained energy access? A critical review of a solar PV technology intervention in rural India,World Development,2019,Lalita Joshi and Deepak Choudhary and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki,article,"@article {1975,
+	title = {Does involvement of local community ensure sustained energy access? A critical review of a solar PV technology intervention in rural India},
+	journal = {World Development},
+	volume = {122},
+	year = {2019},
+	month = {10/2019},
+	pages = {272-281},
+	doi = {https://doi.org/10.1016/j.worlddev.2019.05.028},
+	author = {Lalita Joshi and Deepak Choudhary and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Lalita Joshi', 'Deepak Choudhary', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+69,69,The effect of rolling stock standardization on rake utilization and punctuality of services,"52nd Annual Convention of Operational Research Society of India \& International Conference (ORSI 2019), Ahmedabad 15-18 December, 2019",2019,Swapnesh Subramanian and Narayan Rangaraj,article,"@article {2181,
+	title = {The effect of rolling stock standardization on rake utilization and punctuality of services},
+	journal = {52nd Annual Convention of Operational Research Society of India \& International Conference (ORSI 2019), Ahmedabad 15-18 December, 2019},
+	year = {2019},
+	author = {Swapnesh Subramanian and Narayan Rangaraj}
+}","['Swapnesh Subramanian', 'Narayan Rangaraj']"
+70,70,Effect of standardization on rake utilization in rolling stock,30th European Conference on Operational Research (EURO 2019),2019,Swapnesh Subramanian and Narayan Rangaraj,article,"@article {2016,
+	title = {Effect of standardization on rake utilization in rolling stock},
+	journal = {30th European Conference on Operational Research (EURO 2019)},
+	year = {2019},
+	month = {6/2019},
+	address = {Dublin, Ireland},
+	author = {Swapnesh Subramanian and Narayan Rangaraj}
+}","['Swapnesh Subramanian', 'Narayan Rangaraj']"
+71,71,Facets of a mixed-integer bilinear covering set with bounds on variables,Global Optimization,2019,H. Rahman and Ashutosh Mahajan,article,"@article {2304,
+	title = {Facets of a mixed-integer bilinear covering set with bounds on variables},
+	journal = {Global Optimization},
+	volume = {74},
+	year = {2019},
+	pages = {417-442},
+	doi = {10.1007/s10898-019-00783-0},
+	author = {H. Rahman and Ashutosh Mahajan}
+}","['H. Rahman', 'Ashutosh Mahajan']"
+72,72,Industrial engineering application in production unit,XXIII Annual International Conference of the Society of Operations Management,2019,Ratnesh Srivatsav and Jayendran Venkateswaran and Narayan Rangaraj,article,"@article {2382,
+	title = {Industrial engineering application in production unit},
+	journal = {XXIII Annual International Conference of the Society of Operations Management},
+	year = {2019},
+	month = {12/2019},
+	type = {Abstract},
+	address = {IIT Kanpur},
+	author = {Ratnesh Srivatsav and Jayendran Venkateswaran and Narayan Rangaraj}
+}","['Ratnesh Srivatsav', 'Jayendran Venkateswaran', 'Narayan Rangaraj']"
+73,73,Industry implementable part launch sequence optimization,XXIII Annual International Conference of the Society of Operations Management,2019,Akondi Praneeth and Jayendran Venkateswaran and Ashutosh Mahajan,article,"@article {2383,
+	title = {Industry implementable part launch sequence optimization},
+	journal = {XXIII Annual International Conference of the Society of Operations Management},
+	year = {2019},
+	month = {12/2019},
+	type = {Abstract},
+	address = {IIT Kanpur},
+	author = {Akondi Praneeth and Jayendran Venkateswaran and Ashutosh Mahajan}
+}","['Akondi Praneeth', 'Jayendran Venkateswaran', 'Ashutosh Mahajan']"
+74,74,Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers,IEEE Transactions on Mobile Computing,2019,Suneet Sawant and Rohit Kumar and Manjesh Kumar Hanawal and Sumit J. Darak,article,"@article {2081,
+	title = {Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers},
+	journal = {IEEE Transactions on Mobile Computing},
+	year = {2019},
+	author = {Suneet Sawant and Rohit Kumar and Manjesh Kumar Hanawal and Sumit J. Darak}
+}","['Suneet Sawant', 'Rohit Kumar', 'Manjesh Kumar Hanawal', 'Sumit J. Darak']"
+75,75,Multi-player Multi-armed Bandits for Stable Allocation in Heterogeneous Ad-Hoc Networks,IEEE Journal on Selected Areas in Communications,2019,Sumit J. Darak and Manjesh Kumar Hanawal,article,"@article {2076,
+	title = {Multi-player Multi-armed Bandits for Stable Allocation in Heterogeneous Ad-Hoc Networks},
+	journal = {IEEE Journal on Selected Areas in Communications},
+	year = {2019},
+	author = {Sumit J. Darak and Manjesh Kumar Hanawal}
+}","['Sumit J. Darak', 'Manjesh Kumar Hanawal']"
+76,76,Opportunistic Schedulers: Price for Fairness?,Computer Communications,2019,Veeraruna Kavitha and Mayur Zambre and Nandyala Hemachandra,article,"@article {2087,
+	title = {Opportunistic Schedulers: Price for Fairness?},
+	journal = {Computer Communications},
+	year = {2019},
+	author = {Veeraruna Kavitha and Mayur Zambre and Nandyala Hemachandra}
+}","['Veeraruna Kavitha', 'Mayur Zambre', 'Nandyala Hemachandra']"
+77,77,Optimal PAC-Bayesian Posteriors for Stochastic Classifiers and their use for Choice of SVM Regularization Parameter,Proceedings of The Eleventh Asian Conference on Machine Learning,2019,"Sahu, Puja and Nandyala Hemachandra",article,"@article {2127,
+	title = {Optimal PAC-Bayesian Posteriors for Stochastic Classifiers and their use for Choice of SVM Regularization Parameter},
+	journal = {Proceedings of The Eleventh Asian Conference on Machine Learning},
+	year = {2019},
+	month = {17{\textendash}19 Nov},
+	publisher = {PMLR},
+	address = {Nagoya, Japan},
+	abstract = {<p>PAC-Bayesian set up involves a stochastic classifier characterized by a posterior distribution on a classifier set, offers a high probability bound on its averaged true risk and is robust to the training sample used. For a given posterior, this bound captures the trade off between averaged empirical risk and KL-divergence based model complexity term. Our goal is to identify an optimal posterior with the least PAC-Bayesian bound. We consider a finite classifier set and 5 distance functions: KL-divergence, its Pinsker{\textquoteright}s and a sixth degree polynomial approximations; linear and squared distances. Linear distance based model results in a convex optimization problem and we obtain a closed form expression for its optimal posterior. For uniform prior, this posterior has full support with weights negative-exponentially proportional to number of misclassifications. Squared distance and Pinsker{\textquoteright}s approximation bounds are possibly quasi-convex and are observed to have single local minimum. We derive fixed point equations (FPEs) using partial KKT system with strict positivity constraints. This obviates the combinatorial search for subset support of the optimal posterior. For uniform prior, exponential search on a full-dimensional simplex can be limited to an ordered subset of classifiers with increasing empirical risk values. These FPEs converge rapidly to a stationary point, even for a large classifier set when a solver fails. We apply these approaches to SVMs generated using a finite set of SVM regularization parameter values on 9 UCI datasets. The resulting optimal posteriors (on the set of regularization parameters) yield stochastic SVM classifiers with tight bounds. KL-divergence based bound is the tightest, but is computationally expensive due to its non-convex nature and multiple calls to a root finding algorithm. Optimal posteriors for all 5 distance functions have lowest 10\% test error values on most datasets, with that of linear distance being the easiest to obtain.</p>},
+	url = {http://proceedings.mlr.press/v101/sahu19a.html},
+	author = {Sahu, Puja and Nandyala Hemachandra},
+	editor = {Lee, Wee Sun and Suzuki, Taiji}
+}","['Sahu, Puja', 'Nandyala Hemachandra']"
+78,78,Optimal Play in Duidoku Game,Combinatorial Game Theory Colloquium III,2019,Ravi Kant Rai and K. S. Mallikarjuna Rao,article,"@article {2519,
+	title = {Optimal Play in Duidoku Game},
+	journal = {Combinatorial Game Theory Colloquium III},
+	year = {2019},
+	address = {Lisbon},
+	author = {Ravi Kant Rai and K. S. Mallikarjuna Rao}
+}","['Ravi Kant Rai', 'K. S. Mallikarjuna Rao']"
+79,79,Order first split second heuristic for alternative routing strategy for freight railways,Transport Policy,2019,Tejas Ghorpade and Narayan Rangaraj,article,"@article {2320,
+	title = {Order first split second heuristic for alternative routing strategy for freight railways},
+	journal = {Transport Policy},
+	year = {2019},
+	keywords = {Cycle planning, Freight rail, Order first split second, Pick up and delivery},
+	issn = {0967-070X},
+	doi = {https://doi.org/10.1016/j.tranpol.2019.10.010},
+	url = {http://www.sciencedirect.com/science/article/pii/S0967070X19305049},
+	author = {Tejas Ghorpade and Narayan Rangaraj}
+}","['Tejas Ghorpade', 'Narayan Rangaraj']"
+80,80,Revenue Sharing in the Internet: A Moral Hazard Approach and a Net-neutrality Perspective,arXiv-preprint,2019,"Fehmina Malik and Manjesh Kumar Hanawal and Hayel, Yezekael and Jayakrishnan Nair",article,"@article {2080,
+	title = {Revenue Sharing in the Internet: A Moral Hazard Approach and a Net-neutrality Perspective},
+	journal = {arXiv-preprint},
+	year = {2019},
+	author = {Fehmina Malik and Manjesh Kumar Hanawal and Hayel, Yezekael and Jayakrishnan Nair}
+}","['Fehmina Malik', 'Manjesh Kumar Hanawal', 'Hayel, Yezekael', 'Jayakrishnan Nair']"
+81,81,A Series of ILP models for the optimization of water distribution networks,Sadhana,2019,N. Hooda and Ashutosh Mahajan and Om Damani,article,"@article {2303,
+	title = {A Series of ILP models for the optimization of water distribution networks},
+	journal = {Sadhana},
+	volume = {44},
+	year = {2019},
+	doi = {10.1007/s12046-019-1211-0},
+	author = {N. Hooda and Ashutosh Mahajan and Om Damani}
+}","['N. Hooda', 'Ashutosh Mahajan', 'Om Damani']"
+82,82,Speed Based Optimal Power Control in Small Cell Networks,Computer Communications,2019,Veeraruna Kavitha and Manu Kumar Gupta and Veronique Capdevielle and Rahul Kishor M,article,"@article {2009,
+	title = {Speed Based Optimal Power Control in Small Cell Networks},
+	journal = {Computer Communications},
+	volume = {142},
+	year = {2019},
+	author = {Veeraruna Kavitha and Manu Kumar Gupta and Veronique Capdevielle and Rahul Kishor M}
+}","['Veeraruna Kavitha', 'Manu Kumar Gupta', 'Veronique Capdevielle', 'Rahul Kishor M']"
+83,83,"Addressing Energy Poverty in India: A systems perspective on the role of localization, affordability, and saturation in implementing solar technologies",Energy Research \& Social Science,2018,Jayendran Venkateswaran and Chetan S. Solanki and Kelsey Werner and Gautam N. Yadama,article,"@article {1892,
+	title = {Addressing Energy Poverty in India: A systems perspective on the role of localization, affordability, and saturation in implementing solar technologies},
+	journal = {Energy Research \& Social Science},
+	volume = {40},
+	year = {2018},
+	month = {06/2018},
+	pages = {205-210},
+	doi = {https://doi.org/10.1016/j.erss.2018.02.011},
+	author = {Jayendran Venkateswaran and Chetan S. Solanki and Kelsey Werner and Gautam N. Yadama}
+}","['Jayendran Venkateswaran', 'Chetan S. Solanki', 'Kelsey Werner', 'Gautam N. Yadama']"
+84,84,"Application of Earth Mover{\textquoteright}s Distance together with neural networks, on problems in Image recognition",51st Annual Convention of Operational Research Society of India \& International Conference (ORSI 2018),2018,Manoj Kumar and Narayan Rangaraj,article,"@article {2013,
+	title = {Application of Earth Mover{\textquoteright}s Distance together with neural networks, on problems in Image recognition},
+	journal = {51st Annual Convention of Operational Research Society of India \& International Conference (ORSI 2018)},
+	year = {2018},
+	month = {12/2018},
+	address = {Mumbai, India},
+	author = {Manoj Kumar and Narayan Rangaraj}
+}","['Manoj Kumar', 'Narayan Rangaraj']"
+85,85,Business Process Flow Prediction using Machine Learning Algorithms,Operations Research Society of India Conference,2018,"Dhawal Manish Thakkar and Balamurugan, P.",article,"@article {2433,
+	title = {Business Process Flow Prediction using Machine Learning Algorithms},
+	journal = {Operations Research Society of India Conference},
+	year = {2018},
+	author = {Dhawal Manish Thakkar and Balamurugan, P.}
+}","['Dhawal Manish Thakkar', 'Balamurugan, P.']"
+86,86,Decision making under deep uncertainty,SOM-IMTH Summer School in Operations and Supply Chain Management Research,2018,Jayendran Venkateswaran,article,"@article {1897,
+	title = {Decision making under deep uncertainty},
+	journal = {SOM-IMTH Summer School in Operations and Supply Chain Management Research},
+	year = {2018},
+	month = {05/2018},
+	type = {Invited Talk},
+	address = {IMT Hyderabad},
+	author = {Jayendran Venkateswaran}
+}",['Jayendran Venkateswaran']
+87,87,Effects of Key Financial Markets{\textquoteright} Infrastructure on Cash and Liquidity Management of Banks in India,Arthshastra Indian Journal of Economics \& Research,2018,"Maiti, Sasanka Sekhar and Nandyala Hemachandra",article,"@article {1962,
+	title = {Effects of Key Financial Markets{\textquoteright} Infrastructure on Cash and Liquidity Management of Banks in India},
+	journal = {Arthshastra Indian Journal of Economics \& Research},
+	volume = {7},
+	year = {2018},
+	pages = {47{\textendash}55},
+	doi = {10.17010/aijer/2018/v7i4/131662},
+	author = {Maiti, Sasanka Sekhar and Nandyala Hemachandra}
+}","['Maiti, Sasanka Sekhar', 'Nandyala Hemachandra']"
+88,88,Empirical assessments of the Reserve Bank of India{\textquoteright}s policy measures on payment and settlement systems in India,JOURNAL OF FINANCIAL MARKET INFRASTRUCTURES,2018,"Maiti, Sasanka Sekhar and Nandyala Hemachandra",article,"@article {1961,
+	title = {Empirical assessments of the Reserve Bank of India{\textquoteright}s policy measures on payment and settlement systems in India},
+	journal = {JOURNAL OF FINANCIAL MARKET INFRASTRUCTURES},
+	volume = {7},
+	year = {2018},
+	pages = {15{\textendash}27},
+	doi = {10.21314/JFMI.2018.100},
+	author = {Maiti, Sasanka Sekhar and Nandyala Hemachandra}
+}","['Maiti, Sasanka Sekhar', 'Nandyala Hemachandra']"
+89,89,Empirical Research in Operations Research,SOM-IMTH Summer School in Operations and Supply Chain Management Research,2018,Jayendran Venkateswaran,article,"@article {1898,
+	title = {Empirical Research in Operations Research},
+	journal = {SOM-IMTH Summer School in Operations and Supply Chain Management Research},
+	year = {2018},
+	month = {05/2018},
+	type = {Invited Talk},
+	address = {IMT, Hyderabad},
+	author = {Jayendran Venkateswaran}
+}",['Jayendran Venkateswaran']
+90,90,Evolutionary Stability of Polymorphic Population States in Continuous Games,Dynamic Games and Applications,2018,K. S. Mallikarjuna Rao and Dharini Hingu and A.J. Shaiju,article,"@article {2049,
+	title = {Evolutionary Stability of Polymorphic Population States in Continuous Games},
+	journal = {Dynamic Games and Applications},
+	volume = {8},
+	year = {2018},
+	pages = {141-156},
+	author = {K. S. Mallikarjuna Rao and Dharini Hingu and A.J. Shaiju}
+}","['K. S. Mallikarjuna Rao', 'Dharini Hingu', 'A.J. Shaiju']"
+91,91,A heuristic approach for kidney exchange program,8th VOCAL Optimization Conference: Advanced Algorithms,2018,"Verma, Utkarsh and Narayan Rangaraj",article,"@article {2014,
+	title = {A heuristic approach for kidney exchange program},
+	journal = {8th VOCAL Optimization Conference: Advanced Algorithms},
+	year = {2018},
+	month = {12/2018},
+	address = {Esztergom, Hungary},
+	author = {Verma, Utkarsh and Narayan Rangaraj}
+}","['Verma, Utkarsh', 'Narayan Rangaraj']"
+92,92,Heuristic solution and analysis of Kidney exchange program,29th European Conference on Operational Research (EURO 2018),2018,"Verma, Utkarsh and Narayan Rangaraj",article,"@article {2323,
+	title = {Heuristic solution and analysis of Kidney exchange program},
+	journal = {29th European Conference on Operational Research (EURO 2018)},
+	year = {2018},
+	month = {07/2018},
+	author = {Verma, Utkarsh and Narayan Rangaraj}
+}","['Verma, Utkarsh', 'Narayan Rangaraj']"
+93,93,Inventory management strategies for mitigating unfolding epidemics,IISE Transactions on Healthcare Systems Engineering,2018,Siddhartha Paul and Jayendran Venkateswaran,article,"@article {1863,
+	title = {Inventory management strategies for mitigating unfolding epidemics},
+	journal = {IISE Transactions on Healthcare Systems Engineering},
+	year = {2018},
+	pages = {1-14},
+	doi = {10.1080/24725579.2017.1418768},
+	url = {https://doi.org/10.1080/24725579.2017.1418768},
+	author = {Siddhartha Paul and Jayendran Venkateswaran}
+}","['Siddhartha Paul', 'Jayendran Venkateswaran']"
+94,94,Localization-affordability-saturation for speedy distribution of solar study lamps to millions,Current Science,2018,Chetan S. Solanki and Jayendran Venkateswaran and N.C. Narayanan,article,"@article {1893,
+	title = {Localization-affordability-saturation for speedy distribution of solar study lamps to millions},
+	journal = {Current Science},
+	volume = {114},
+	year = {2018},
+	month = {05/2018},
+	pages = {2027-2033},
+	url = {http://www.currentscience.ac.in/php/toc.php?vol=114\&issue=10},
+	author = {Chetan S. Solanki and Jayendran Venkateswaran and N.C. Narayanan}
+}","['Chetan S. Solanki', 'Jayendran Venkateswaran', 'N.C. Narayanan']"
+95,95,A novel method to increase the kidney donor pool: A fusion model linking the deceased donor waitlist to a paired kidney exchange program,Indian Journal of Transplantation,2018,"Billa, Viswanath and Verma, Utkarsh and Usulumarty, Deepa and Narayan Rangaraj and Sanap, Ganesh and Kothari, Jatin and rajesh Kumar and Shrirang Bichu and others",article,"@article {2010,
+	title = {A novel method to increase the kidney donor pool: A fusion model linking the deceased donor waitlist to a paired kidney exchange program},
+	journal = {Indian Journal of Transplantation},
+	volume = {12},
+	year = {2018},
+	pages = {187},
+	author = {Billa, Viswanath and Verma, Utkarsh and Usulumarty, Deepa and Narayan Rangaraj and Sanap, Ganesh and Kothari, Jatin and rajesh Kumar and Shrirang Bichu and others}
+}","['Billa, Viswanath', 'Verma, Utkarsh', 'Usulumarty, Deepa', 'Narayan Rangaraj', 'Sanap, Ganesh', 'Kothari, Jatin', 'rajesh Kumar', 'Shrirang Bichu', 'others']"
+97,97,Order First Cluster Second Algorithm for Pick up and Delivery Problems,29th European Conference on Operational Research (EURO 2018),2018,Tejas Ghorpade and Narayan Rangaraj,article,"@article {2015,
+	title = {Order First Cluster Second Algorithm for Pick up and Delivery Problems},
+	journal = {29th European Conference on Operational Research (EURO 2018)},
+	year = {2018},
+	month = {7/2018},
+	address = {Valencia, Spain},
+	author = {Tejas Ghorpade and Narayan Rangaraj}
+}","['Tejas Ghorpade', 'Narayan Rangaraj']"
+98,98,Paths to Stability and Uniqueness in Two-Sided Matching Markets,International Journal of Game Theory,2018,K. S. Mallikarjuna Rao and V. Ramani,article,"@article {2051,
+	title = {Paths to Stability and Uniqueness in Two-Sided Matching Markets},
+	journal = {International Journal of Game Theory},
+	volume = {47},
+	year = {2018},
+	pages = {1137-1150},
+	author = {K. S. Mallikarjuna Rao and V. Ramani}
+}","['K. S. Mallikarjuna Rao', 'V. Ramani']"
+99,99,Perspectives on Operations Research (IEOR Seminar Series),,2018,Jayendran Venkateswaran,article,"@article {1894,
+	title = {Perspectives on Operations Research (IEOR Seminar Series)},
+	year = {2018},
+	abstract = {<p>(IEOR Seminar Series)</p>
+	<p>Operations research supports decision-making in many complex systems\&nbsp;across domains. However, though OR is a well-established field in its\&nbsp;own right, it is quite unrecognised and under-appreciated. The problem\&nbsp;is compounded by the fact that OR professionals / researchers are\&nbsp;themselves quite unclear about ""What is OR?"", or unable to explain it\&nbsp;confidently or satisfactorily to the public at large. This vagueness\&nbsp;about OR often poses a barrier for novice learners/ students to join the\&nbsp;OR stream/ employ OR methods effectively. Further, OR community will be\&nbsp;increasingly looked upon to play a key role as an anchor to address\&nbsp;""wicked"" problems (incl. sustainable development goals), and steer the\&nbsp;realisation of solutions. This requires us to have a common\&nbsp;understanding about OR, and perhaps introspect our role as OR\&nbsp;professionals.<br />
+	<br />
+	In this talk I will attempt to provide a satisfactory answer to the\&nbsp;question ""What is OR?"". Drawing on my own experiences, I argue for a\&nbsp;strong empirical base for research \&amp; practice activities of OR, and the\&nbsp;challenges therein. I also discuss the skill sets required to create<br />
+	complete \&amp; holistic OR professionals. This, I believe, will go a long\&nbsp;way in building a strong community of complete OR professionals to\&nbsp;work\&nbsp;on problems that matter .</p>},
+	attachments = {https://www.ieor.iitb.ac.in/files/OR-Perspectivesv3.pdf},
+	author = {Jayendran Venkateswaran}
+}",['Jayendran Venkateswaran']
+100,100,Policies for Dynamic Assignment for Full Truckload One to One Pick up and delivery problem,51st Annual Convention of Operational Research Society of India and International Conference (ORSI 2018),2018,Tejas Ghorpade and Narayan Rangaraj,article,"@article {2011,
+	title = {Policies for Dynamic Assignment for Full Truckload One to One Pick up and delivery problem},
+	journal = {51st Annual Convention of Operational Research Society of India and International Conference (ORSI 2018)},
+	year = {2018},
+	month = {12/2018},
+	address = {Mumbai, India},
+	author = {Tejas Ghorpade and Narayan Rangaraj}
+}","['Tejas Ghorpade', 'Narayan Rangaraj']"
+101,101,"Pseudo conservation for partially fluid, partially lossy queueing systems",Annals of Operations Research,2018,Veeraruna Kavitha and Jayakrishnan Nair and Raman Kumar Sinha,article,"@article {2027,
+	title = {Pseudo conservation for partially fluid, partially lossy queueing systems},
+	journal = {Annals of Operations Research},
+	year = {2018},
+	pages = { 1-38},
+	author = {Veeraruna Kavitha and Jayakrishnan Nair and Raman Kumar Sinha}
+}","['Veeraruna Kavitha', 'Jayakrishnan Nair', 'Raman Kumar Sinha']"
+102,102,A Spatial Game Theoretic Analysis of Conflict and Identity,Computational Economics,2018,K. S. Mallikarjuna Rao and Anirban Ghatak and Diganta Mukherjee,article,"@article {2050,
+	title = {A Spatial Game Theoretic Analysis of Conflict and Identity},
+	journal = {Computational Economics},
+	volume = {52},
+	year = {2018},
+	pages = {493 - 519},
+	author = {K. S. Mallikarjuna Rao and Anirban Ghatak and Diganta Mukherjee}
+}","['K. S. Mallikarjuna Rao', 'Anirban Ghatak', 'Diganta Mukherjee']"
+103,103,User Response Based Recommendations,Communication Systems and Networks,2018,Salman Memon and Veeraruna Kavitha and Manjesh Kumar Hanawal and Eitan Altman and R. Devanand,article,"@article {2037,
+	title = {User Response Based Recommendations},
+	journal = {Communication Systems and Networks},
+	volume = { 11227},
+	year = {2018},
+	author = {Salman Memon and Veeraruna Kavitha and Manjesh Kumar Hanawal and Eitan Altman and R. Devanand}
+}","['Salman Memon', 'Veeraruna Kavitha', 'Manjesh Kumar Hanawal', 'Eitan Altman', 'R. Devanand']"
+267,267,Customer Feedback Driven Optimization of Aircraft Flight Sequence Scheduling with Flight leg Priority Assignment and Propagated Delay Minimization,8th International Conference on Business Analytics and Intelligence (ICBAI) Conference,,Dhawal Manish Thakkar and P. Balamurugan,article,"@article {2669,
+	title = {Customer Feedback Driven Optimization of Aircraft Flight Sequence Scheduling with Flight leg Priority Assignment and Propagated Delay Minimization},
+	journal = {8th International Conference on Business Analytics and Intelligence (ICBAI) Conference},
+	type = {Oral Abstract Presentation},
+	address = {Bengaluru, India},
+	author = {Dhawal Manish Thakkar and P. Balamurugan}
+}","['Dhawal Manish Thakkar', 'P. Balamurugan']"
+268,268,Evolutionary stability in games on networks,4th Lancaster Game Theory Conference (LGTC2018),,Arko Chatterjee and K. S. Mallikarjuna Rao,article,"@article {2520,
+	title = {Evolutionary stability in games on networks},
+	journal = {4th Lancaster Game Theory Conference (LGTC2018)},
+	address = {Lancaster University Management School (LUMS)},
+	author = {Arko Chatterjee and K. S. Mallikarjuna Rao}
+}","['Arko Chatterjee', 'K. S. Mallikarjuna Rao']"
+269,269,Fixed-point equations solving Risk-sensitive MDP with constraint,American Control Conference (ACC),2023,Vartika Singh and Veeraruna Kavitha,proceedings,"@proceedings {2885,
+	title = {Fixed-point equations solving Risk-sensitive MDP with constraint},
+	journal = {American Control Conference (ACC)},
+	year = {2023},
+	publisher = {IEEE},
+	doi = {10.23919/ACC55779.2023.10155921},
+	author = {Vartika Singh and Veeraruna Kavitha}
+}","['Vartika Singh', 'Veeraruna Kavitha']"
+270,270,Multi-Agent Congestion Cost Minimization with Linear Function Approximations,26th International Conference on Artificial Intelligence and Statistics,2023,Prashant Trivedi and Nandyala Hemachandra,proceedings,"@proceedings {2833,
+	title = {Multi-Agent Congestion Cost Minimization with Linear Function Approximations},
+	journal = {26th International Conference on Artificial Intelligence and Statistics},
+	volume = {206},
+	year = {2023},
+	month = {04/2023},
+	pages = {7611-7643},
+	publisher = {Proceeding of Machine Learning Research},
+	address = {Valencia, Spain},
+	url = {https://proceedings.mlr.press/v206/trivedi23a.html},
+	attachments = {https://www.ieor.iitb.ac.in/files/trivedi23a-proceedings.pdf},
+	author = {Prashant Trivedi and Nandyala Hemachandra}
+}","['Prashant Trivedi', 'Nandyala Hemachandra']"
+271,271,Noise Robust Core-Stable Coalitions of Hedonic Games,14th Asian Conference on Machine Learning,2023,Prashant Trivedi and Nandyala Hemachandra,proceedings,"@proceedings {2834,
+	address = {Hyderabad, India},
+	attachments = {https://www.ieor.iitb.ac.in/files/trivedi23a-proceedings_0.pdf},
+	author = {Prashant Trivedi and Nandyala Hemachandra},
+	journal = {14th Asian Conference on Machine Learning},
+	pages = {1038-1053},
+	publisher = {Proceeding of Machine Learning Research},
+	title = {Noise Robust Core-Stable Coalitions of Hedonic Games},
+	url = {https://proceedings.mlr.press/v189/trivedi23a.html},
+	volume = {189},
+	year = {2023}
+}","['Prashant Trivedi', 'Nandyala Hemachandra']"
+272,272,Agent Based Learning Environment for Survey Research,Winter Simulation Conference,2022,Jayendran Venkateswaran and Sayli Shiradkar and Deepak Choudhary,proceedings,"@proceedings {2848,
+	title = {Agent Based Learning Environment for Survey Research},
+	journal = {Winter Simulation Conference},
+	year = {2022},
+	month = {12/2022},
+	pages = {2991-3002},
+	url = {https://informs-sim.org/wsc22papers/by_area.html},
+	author = {Jayendran Venkateswaran and Sayli Shiradkar and Deepak Choudhary}
+}","['Jayendran Venkateswaran', 'Sayli Shiradkar', 'Deepak Choudhary']"
+273,273,A CBSD Study to understand stacking of solar induction and LPG cookstoves along with traditional biomass cookstoves,International System Dynamics Conference,2022,Tresa Maria and Deepak Choudhary and Sayli Shiradkar and Jayendran Venkateswaran and Praveen Kumar,proceedings,"@proceedings {2849,
+	title = {A CBSD Study to understand stacking of solar induction and LPG cookstoves along with traditional biomass cookstoves},
+	journal = {International System Dynamics Conference},
+	year = {2022},
+	month = {07/2022},
+	author = {Tresa Maria and Deepak Choudhary and Sayli Shiradkar and Jayendran Venkateswaran and Praveen Kumar}
+}","['Tresa Maria', 'Deepak Choudhary', 'Sayli Shiradkar', 'Jayendran Venkateswaran', 'Praveen Kumar']"
+274,274,Challenges in Net Neutrality Violation Detection: A Case Study of Wehe Tool and Improvements,14th International Conference on COMmunication Systems \& NETworkS (COMSNETS) 2022,2022,Vinod S. Khandkar and Manjesh Kumar Hanawal,proceedings,"@proceedings {2602,
+	title = {Challenges in Net Neutrality Violation Detection: A Case Study of Wehe Tool and Improvements},
+	journal = {14th International Conference on COMmunication Systems \& NETworkS (COMSNETS) 2022},
+	year = {2022},
+	pages = {506-514},
+	doi = {10.1109/COMSNETS53615.2022.9668372},
+	author = {Vinod S. Khandkar and Manjesh Kumar Hanawal}
+}","['Vinod S. Khandkar', 'Manjesh Kumar Hanawal']"
+275,275,Exploiting Side Information for Intelligent and Reconfigurable PHY: Experiments on LTE Transceivers,2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS),2022,"Verma, Harsh and Goel, Hritik and Sumit J. Darak and Manjesh Kumar Hanawal",proceedings,"@proceedings {2652,
+	title = {Exploiting Side Information for Intelligent and Reconfigurable PHY: Experiments on LTE Transceivers},
+	journal = {2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2022},
+	publisher = {IEEE},
+	author = {Verma, Harsh and Goel, Hritik and Sumit J. Darak and Manjesh Kumar Hanawal}
+}","['Verma, Harsh', 'Goel, Hritik', 'Sumit J. Darak', 'Manjesh Kumar Hanawal']"
+276,276,"Pricing, competition and market segmentation in ride hailing","58th Annual Allerton Conference on Communication, Control, and Computing (Allerton)",2022,Tushar Shankar Walunj and Shiksha Singhal and Veeraruna Kavitha and Jayakrishnan Nair,proceedings,"@proceedings {2832,
+	title = {Pricing, competition and market segmentation in ride hailing},
+	journal = {58th Annual Allerton Conference on Communication, Control, and Computing (Allerton)},
+	year = {2022},
+	month = {06/2022},
+	pages = {1-8},
+	url = {https://ieeexplore.ieee.org/abstract/document/9929365},
+	author = {Tushar Shankar Walunj and Shiksha Singhal and Veeraruna Kavitha and Jayakrishnan Nair}
+}","['Tushar Shankar Walunj', 'Shiksha Singhal', 'Veeraruna Kavitha', 'Jayakrishnan Nair']"
+277,277,Production and Inventory Control System Dynamics under Emission Feedback,"International System Dynamics Conference, Frankfurt, Germany",2022,Rishav Deval and Jayendran Venkateswaran,proceedings,"@proceedings {2842,
+	title = {Production and Inventory Control System Dynamics under Emission Feedback},
+	journal = {International System Dynamics Conference, Frankfurt, Germany},
+	year = {2022},
+	edition = {40},
+	url = {https://proceedings.systemdynamics.org/2022/papers/P1298.pdf},
+	author = {Rishav Deval and Jayendran Venkateswaran}
+}","['Rishav Deval', 'Jayendran Venkateswaran']"
+278,278,Simulation for Modeling and Analysis of Burn Center,IEEE International Conference on Industrial Engineering and Engineering Management (IEEM),2022,Akshay Vilas Upasany and Anurendra Singh and Gurkirat Wadhwa and Jayendran Venkateswaran and Gopika Vinod,proceedings,"@proceedings {2847,
+	title = {Simulation for Modeling and Analysis of Burn Center},
+	journal = {IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)},
+	year = {2022},
+	month = {12/2022},
+	pages = {681-685},
+	doi = {https://doi.org/10.1109/IEEM55944.2022.9989967},
+	author = {Akshay Vilas Upasany and Anurendra Singh and Gurkirat Wadhwa and Jayendran Venkateswaran and Gopika Vinod}
+}","['Akshay Vilas Upasany', 'Anurendra Singh', 'Gurkirat Wadhwa', 'Jayendran Venkateswaran', 'Gopika Vinod']"
+279,279,Stability Analysis of Emission-based Production and Inventory Control Systems (EPICS),IEEE International Conference on Industrial Engineering and Engineering Management (IEEM),2022,Rishav Deval and Jayendran Venkateswaran,proceedings,"@proceedings {2841,
+	title = {Stability Analysis of Emission-based Production and Inventory Control Systems (EPICS)},
+	journal = {IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)},
+	year = {2022},
+	url = {https://ieeexplore.ieee.org/abstract/document/9989685},
+	author = {Rishav Deval and Jayendran Venkateswaran}
+}","['Rishav Deval', 'Jayendran Venkateswaran']"
+280,280,Threat Detection and Response in Linux Endpoints,2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS),2022,"Agarwal, Shubham and Sable, Arjun and Sawant, Devesh and Kahalekar, Sunil and Manjesh Kumar Hanawal",proceedings,"@proceedings {2656,
+	title = {Threat Detection and Response in Linux Endpoints},
+	journal = {2022 14th International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2022},
+	publisher = {IEEE},
+	author = {Agarwal, Shubham and Sable, Arjun and Sawant, Devesh and Kahalekar, Sunil and Manjesh Kumar Hanawal}
+}","['Agarwal, Shubham', 'Sable, Arjun', 'Sawant, Devesh', 'Kahalekar, Sunil', 'Manjesh Kumar Hanawal']"
+281,281,Challenges in Net Neutrality Violation Detection: A Case Study of Wehe Tool,2021 International Conference on COMmunication Systems \& NETworkS (COMSNETS),2021,Vinod S. Khandkar and Manjesh Kumar Hanawal,proceedings,"@proceedings {2408,
+	title = {Challenges in Net Neutrality Violation Detection: A Case Study of Wehe Tool},
+	journal = {2021 International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2021},
+	address = {Bangalore},
+	author = {Vinod S. Khandkar and Manjesh Kumar Hanawal}
+}","['Vinod S. Khandkar', 'Manjesh Kumar Hanawal']"
+282,282,Coalition Formation in Constant Sum Queueing Games,60th IEEE Conference on Decision and Control (CDC),2021,Shiksha Singhal and Veeraruna Kavitha and Jayakrishnan Nair,proceedings,"@proceedings {2625,
+	title = {Coalition Formation in Constant Sum Queueing Games},
+	journal = {60th IEEE Conference on Decision and Control (CDC)},
+	year = {2021},
+	publisher = {IEEE},
+	doi = {10.1109/CDC45484.2021.9683595},
+	author = {Shiksha Singhal and Veeraruna Kavitha and Jayakrishnan Nair}
+}","['Shiksha Singhal', 'Veeraruna Kavitha', 'Jayakrishnan Nair']"
+283,283,Dynamic Bus Dispatch Policies,"International Conference on Network Games, Control and Optimization",2021,M Venkateswararao Koppisetti and Veeraruna Kavitha,proceedings,"@proceedings {2627,
+	title = {Dynamic Bus Dispatch Policies},
+	journal = {International Conference on Network Games, Control and Optimization},
+	year = {2021},
+	publisher = {Springer},
+	author = {M Venkateswararao Koppisetti and Veeraruna Kavitha}
+}","['M Venkateswararao Koppisetti', 'Veeraruna Kavitha']"
+284,284,Evolutionary Vaccination Games with Premature Vaccines to Combat Ongoing Deadly Pandemic, EAI International Conference on Performance Evaluation Methodologies and Tools,2021,"Vartika Singh and Agarwal, Khushboo and Agarwal, Shubham and Veeraruna Kavitha",proceedings,"@proceedings {2662,
+	title = {Evolutionary Vaccination Games with Premature Vaccines to Combat Ongoing Deadly Pandemic},
+	journal = { EAI International Conference on Performance Evaluation Methodologies and Tools},
+	year = {2021},
+	author = {Vartika Singh and Agarwal, Khushboo and Agarwal, Shubham and Veeraruna Kavitha}
+}","['Vartika Singh', 'Agarwal, Khushboo', 'Agarwal, Shubham', 'Veeraruna Kavitha']"
+285,285,Financial replicator dynamics: emergence of systemic-risk-averting strategies,"International Conference on Network Games, Control and Optimization",2021,Indrajit Saha and Veeraruna Kavitha,proceedings,"@proceedings {2630,
+	title = {Financial replicator dynamics: emergence of systemic-risk-averting strategies},
+	journal = {International Conference on Network Games, Control and Optimization},
+	year = {2021},
+	publisher = {Springer},
+	author = {Indrajit Saha and Veeraruna Kavitha}
+}","['Indrajit Saha', 'Veeraruna Kavitha']"
+286,286,A heuristic based approach for freight path generation in a mixed traffic rail network,8th International Conference on Business Analytics and Intelligence (ICBAI 2021),2021,Anoop K. P. and Narayan Rangaraj and Madhu Belur,proceedings,"@proceedings {2659,
+	title = {A heuristic based approach for freight path generation in a mixed traffic rail network},
+	journal = {8th International Conference on Business Analytics and Intelligence (ICBAI 2021)},
+	year = {2021},
+	address = {Bengaluru, India},
+	url = {https://ayw2022.uniroma3.it/wp-content/uploads/2022/01/Bansal_Akshat_6AYW.pdf},
+	author = {Anoop K. P. and Narayan Rangaraj and Madhu Belur}
+}","['Anoop K. P.', 'Narayan Rangaraj', 'Madhu Belur']"
+287,287,Multi-page Menu Recommendation in Cascade Model with Externalities,2021 60th IEEE Conference on Decision and Control (CDC),2021,"Dhingra, Richa and Verma, Hansraj Satyam and Reiffers-Masson, Alexandre and Veeraruna Kavitha",proceedings,"@proceedings {2631,
+	title = {Multi-page Menu Recommendation in Cascade Model with Externalities},
+	journal = {2021 60th IEEE Conference on Decision and Control (CDC)},
+	year = {2021},
+	publisher = {IEEE},
+	author = {Dhingra, Richa and Verma, Hansraj Satyam and Reiffers-Masson, Alexandre and Veeraruna Kavitha}
+}","['Dhingra, Richa', 'Verma, Hansraj Satyam', 'Reiffers-Masson, Alexandre', 'Veeraruna Kavitha']"
+288,288,A simulation-based tool for crew planning in rail freight services,54th Annual Convention of ORSI and International Conference on Applications of Operational Research in Business and Industries (AORBI 2021),2021,Anoop K. P. and Narayan Rangaraj and Madhu Belur,proceedings,"@proceedings {2664,
+	title = {A simulation-based tool for crew planning in rail freight services},
+	journal = {54th Annual Convention of ORSI and International Conference on Applications of Operational Research in Business and Industries (AORBI 2021)},
+	year = {2021},
+	address = {Indore, India},
+	author = {Anoop K. P. and Narayan Rangaraj and Madhu Belur}
+}","['Anoop K. P.', 'Narayan Rangaraj', 'Madhu Belur']"
+289,289,Stochastic multi-armed bandits with control variates,Advances in Neural Information Processing Systems,2021,"Verma, Arun and Manjesh Kumar Hanawal",proceedings,"@proceedings {2635,
+	title = {Stochastic multi-armed bandits with control variates},
+	journal = {Advances in Neural Information Processing Systems},
+	volume = {34},
+	year = {2021},
+	author = {Verma, Arun and Manjesh Kumar Hanawal}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal']"
+290,290,Unsupervised learning of explainable parse trees for improved generalisation,2021 International Joint Conference on Neural Networks (IJCNN),2021,"Sahay, Atul and Maheshwari, Ayush and Kumar, Ritesh and Ramakrishnan, Ganesh and Manjesh Kumar Hanawal and Arya, Kavi",proceedings,"@proceedings {2640,
+	title = {Unsupervised learning of explainable parse trees for improved generalisation},
+	journal = {2021 International Joint Conference on Neural Networks (IJCNN)},
+	year = {2021},
+	publisher = {IEEE},
+	author = {Sahay, Atul and Maheshwari, Ayush and Kumar, Ritesh and Ramakrishnan, Ganesh and Manjesh Kumar Hanawal and Arya, Kavi}
+}","['Sahay, Atul', 'Maheshwari, Ayush', 'Kumar, Ritesh', 'Ramakrishnan, Ganesh', 'Manjesh Kumar Hanawal', 'Arya, Kavi']"
+291,291,Asymmetric Information Acquisition Games, Conference on Decision and Control ,2020,Vartika Singh and Veeraruna Kavitha,proceedings,"@proceedings {2337,
+	title = {Asymmetric Information Acquisition Games},
+	journal = { Conference on Decision and Control },
+	year = {2020},
+	author = {Vartika Singh and Veeraruna Kavitha}
+}","['Vartika Singh', 'Veeraruna Kavitha']"
+292,292,Controlling Packet Drops to Improve Freshness of information,"International Conference on NETwork Games, Control and Optimisation ",2020,Veeraruna Kavitha and Eitan Altman,proceedings,"@proceedings {2333,
+	title = {Controlling Packet Drops to Improve Freshness of information},
+	journal = {International Conference on NETwork Games, Control and Optimisation },
+	year = {2020},
+	author = {Veeraruna Kavitha and Eitan Altman}
+}","['Veeraruna Kavitha', 'Eitan Altman']"
+293,293,Detection of Traffic Discrimination in the Internet,2020 International Conference on COMmunication Systems \& NETworkS (COMSNETS),2020,Vinod S. Khandkar and Manjesh Kumar Hanawal,proceedings,"@proceedings {2282,
+	title = {Detection of Traffic Discrimination in the Internet},
+	journal = {2020 International Conference on COMmunication Systems \& NETworkS (COMSNETS)},
+	year = {2020},
+	month = {03/2020},
+	pages = {677-679},
+	publisher = {IEEE},
+	doi = {10.1109/COMSNETS48256.2020.9027434},
+	author = {Vinod S. Khandkar and Manjesh Kumar Hanawal}
+}","['Vinod S. Khandkar', 'Manjesh Kumar Hanawal']"
+296,296,Identification of Defective Railway Wheels from Highly Imbalanced Wheel Impact Load Detector Sensor Data,Proceedings of Operations Research 2019,2020,"Sabnis, Sanjeev and Yadav, Sharvan and Salsingikar, Shripad",proceedings,"@proceedings {2273,
+	title = {Identification of Defective Railway Wheels from Highly Imbalanced Wheel Impact Load Detector Sensor Data},
+	journal = {Proceedings of Operations Research 2019},
+	year = {2020},
+	month = {09/2020},
+	publisher = {Spirnger},
+	address = {Dresden, Germany},
+	keywords = {Railway, Regularization, Wheel Impact Load Detectors, Zero-inflated binomial regression},
+	issn = {ISBN 978-3-030-48439-2},
+	url = {https://www.springer.com/gp/book/9783030484385$\#$aboutBook},
+	author = {Sabnis, Sanjeev and Yadav, Sharvan and Salsingikar, Shripad}
+}","['Sabnis, Sanjeev', 'Yadav, Sharvan', 'Salsingikar, Shripad']"
+297,297,Learning and Fairness in Energy Harvesting: A Maximin Multi-Armed Bandits Approach,SPCOM,2020,"Debamita Ghosh and Verma, Arun and Manjesh Kumar Hanawal",proceedings,"@proceedings {2265,
+	title = {Learning and Fairness in Energy Harvesting: A Maximin Multi-Armed Bandits Approach},
+	journal = {SPCOM},
+	year = {2020},
+	author = {Debamita Ghosh and Verma, Arun and Manjesh Kumar Hanawal}
+}","['Debamita Ghosh', 'Verma, Arun', 'Manjesh Kumar Hanawal']"
+298,298,Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces,Advances in Neural Information Processing Systems (NeurIPS),2020,Akash Saha and P. Balamurugan,proceedings,"@proceedings {2385,
+	title = {Learning with Operator-valued Kernels in Reproducing Kernel Krein Spaces},
+	journal = {Advances in Neural Information Processing Systems (NeurIPS)},
+	volume = {33},
+	year = {2020},
+	publisher = {Curran Associates, Inc.},
+	author = {Akash Saha and P. Balamurugan}
+}","['Akash Saha', 'P. Balamurugan']"
+299,299,Online Algorithm for Unsupervised Sequential Selection with Contextual Information,Neural Information Processing Systems (NeurIPS),2020,"Verma, Arun and Manjesh Kumar Hanawal and Szepesvari, Csaba and Saligrama, Venkatesh",proceedings,"@proceedings {2267,
+	title = {Online Algorithm for Unsupervised Sequential Selection with Contextual Information},
+	journal = {Neural Information Processing Systems (NeurIPS)},
+	year = {2020},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Szepesvari, Csaba and Saligrama, Venkatesh}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Szepesvari, Csaba', 'Saligrama, Venkatesh']"
+300,300,On Optimal Control of Discounted Cost Infinite-Horizon Markov Decision Processes Under Local State Information Structures, IFAC,2020,Guanze Peng and Veeraruna Kavitha and Quanyan Zhu,proceedings,"@proceedings {2336,
+	title = {On Optimal Control of Discounted Cost Infinite-Horizon Markov Decision Processes Under Local State Information Structures},
+	journal = { IFAC},
+	year = {2020},
+	author = {Guanze Peng and Veeraruna Kavitha and Quanyan Zhu}
+}","['Guanze Peng', 'Veeraruna Kavitha', 'Quanyan Zhu']"
+301,301,Partial service caching at the edge,"8th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOPT)",2020,Rudrabhotla Sri Prakash and Nikhil Karamchandani and Veeraruna Kavitha and Sharayu Moharir,proceedings,"@proceedings {2339,
+	title = {Partial service caching at the edge},
+	journal = {8th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOPT)},
+	year = {2020},
+	author = {Rudrabhotla Sri Prakash and Nikhil Karamchandani and Veeraruna Kavitha and Sharayu Moharir}
+}","['Rudrabhotla Sri Prakash', 'Nikhil Karamchandani', 'Veeraruna Kavitha', 'Sharayu Moharir']"
+302,302,Reinforcement Learning for Train Movement Planning at Railway Stations,"Adaptive and Learning Agents Workshop (ALA-2020), International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2020)",2020,"Salsingikar, Shripad and Narayan Rangaraj",proceedings,"@proceedings {2272,
+	title = {Reinforcement Learning for Train Movement Planning at Railway Stations},
+	journal = {Adaptive and Learning Agents Workshop (ALA-2020), International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS-2020)},
+	year = {2020},
+	month = {09/2020},
+	address = {Auckland, New Zealand},
+	keywords = {Junction Planning, Reinforcement Learning, Train Planning},
+	url = {https://ala2020.vub.ac.be/papers/ALA2020_paper_11.pdf},
+	author = {Salsingikar, Shripad and Narayan Rangaraj}
+}","['Salsingikar, Shripad', 'Narayan Rangaraj']"
+303,303,Stochastic Network Utility Maximization with Unknown Utility: Multi-Armed Bandits Approach,IEEE INFOCOM,2020,"Verma, Arun and Manjesh Kumar Hanawal",proceedings,"@proceedings {2264,
+	title = {Stochastic Network Utility Maximization with Unknown Utility: Multi-Armed Bandits Approach},
+	journal = {IEEE INFOCOM},
+	year = {2020},
+	author = {Verma, Arun and Manjesh Kumar Hanawal}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal']"
+304,304,Thompson Sampling for Unsupervised Sequential Selection,Asian Conference on Machine Learning (ACML),2020,"Verma, Arun and Manjesh Kumar Hanawal and Nandyala Hemachandra",proceedings,"@proceedings {2266,
+	title = {Thompson Sampling for Unsupervised Sequential Selection},
+	journal = {Asian Conference on Machine Learning (ACML)},
+	year = {2020},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Nandyala Hemachandra}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Nandyala Hemachandra']"
+305,305,Unsupervised Online Feature Selection for Cost-Sensitive Medical Diagnosis,"NetHealth, COMSNETS",2020,"Verma, Arun and Manjesh Kumar Hanawal and Nandyala Hemachandra",proceedings,"@proceedings {2263,
+	title = {Unsupervised Online Feature Selection for Cost-Sensitive Medical Diagnosis},
+	journal = {NetHealth, COMSNETS},
+	year = {2020},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Nandyala Hemachandra}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Nandyala Hemachandra']"
+306,306,Acquisition  Games with Partial-Asymmetric Information,Allerton,2019,Veeraruna Kavitha and Mayank Maheshwari and Eitan Altman,proceedings,"@proceedings {2028,
+	title = {Acquisition  Games with Partial-Asymmetric Information},
+	journal = {Allerton},
+	year = {2019},
+	author = {Veeraruna Kavitha and Mayank Maheshwari and Eitan Altman}
+}","['Veeraruna Kavitha', 'Mayank Maheshwari', 'Eitan Altman']"
+307,307,Censored Semi-Bandits: A Framework for ResourceAllocation with Censored Feedback,Neural Information Processing Systems (NeurIPS),2019,"Verma, Arun and Manjesh Kumar Hanawal and Arun Rajkumar and Raman Sankaran",proceedings,"@proceedings {2100,
+	title = {Censored Semi-Bandits: A Framework for ResourceAllocation with Censored Feedback},
+	journal = {Neural Information Processing Systems (NeurIPS)},
+	year = {2019},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Arun Rajkumar and Raman Sankaran}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Arun Rajkumar', 'Raman Sankaran']"
+308,308,Classifying Diabetic Retinopathy Images Using Induced Deep Region of Interest Extraction,"2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)",2019,A. Kushwaha and P. Balamurugan,proceedings,"@proceedings {2387,
+	title = {Classifying Diabetic Retinopathy Images Using Induced Deep Region of Interest Extraction},
+	journal = {2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)},
+	year = {2019},
+	doi = {10.1109/CISP-BMEI48845.2019.8965695},
+	author = {A. Kushwaha and P. Balamurugan}
+}","['A. Kushwaha', 'P. Balamurugan']"
+309,309,Continuous-Time Markov Decision Processes with Controlled Observations,Allerton ,2019,Yunhan Huang and Veeraruna Kavitha and Quanyan Zhu,proceedings,"@proceedings {2026,
+	title = {Continuous-Time Markov Decision Processes with Controlled Observations},
+	journal = {Allerton },
+	year = {2019},
+	author = {Yunhan Huang and Veeraruna Kavitha and Quanyan Zhu}
+}","['Yunhan Huang', 'Veeraruna Kavitha', 'Quanyan Zhu']"
+310,310,Cost Sensitive Learning in the Presence of Symmetric Label Noise,Pacific Asia Knowledge Discovery and Data Mining,2019,Sandhya Tripathi and Nandyala Hemachandra,proceedings,"@proceedings {1960,
+	title = {Cost Sensitive Learning in the Presence of Symmetric Label Noise},
+	journal = {Pacific Asia Knowledge Discovery and Data Mining},
+	year = {2019},
+	publisher = {Springer International Publishing},
+	address = {Macau, China},
+	isbn = {978-3-030-16148-4},
+	doi = {10.1007/978-3-030-16148-4_2},
+	author = {Sandhya Tripathi and Nandyala Hemachandra}
+}","['Sandhya Tripathi', 'Nandyala Hemachandra']"
+311,311,Decision Making Simulator for Supply Allocation Under Uncertainty,IEEE International Conference on Industrial Engineering and Engineering Management,2019,Vanessa Beddode and Sayli Shiradkar and Jayendran Venkateswaran,proceedings,"@proceedings {2376,
+	title = {Decision Making Simulator for Supply Allocation Under Uncertainty},
+	journal = {IEEE International Conference on Industrial Engineering and Engineering Management},
+	year = {2019},
+	month = {12/2019},
+	pages = {850-854},
+	address = {Macau},
+	doi = {10.1109/IEEM44572.2019.8978494},
+	author = {Vanessa Beddode and Sayli Shiradkar and Jayendran Venkateswaran}
+}","['Vanessa Beddode', 'Sayli Shiradkar', 'Jayendran Venkateswaran']"
+312,312,Distributed Accelerated Inexact Proximal Gradient Method via System of Coupled Ordinary Differential Equations,NeurIPS workshop on Beyond First Order Methods for ML,2019,"Chhavi Sharma and Vishnu Narayanan and Balamurugan, P.",proceedings,"@proceedings {2435,
+	title = {Distributed Accelerated Inexact Proximal Gradient Method via System of Coupled Ordinary Differential Equations},
+	journal = {NeurIPS workshop on Beyond First Order Methods for ML},
+	year = {2019},
+	author = {Chhavi Sharma and Vishnu Narayanan and Balamurugan, P.}
+}","['Chhavi Sharma', 'Vishnu Narayanan', 'Balamurugan, P.']"
+313,313,Distributed Algorithms for Efficient Learning and Coordination in Ad Hoc Networks,"17th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)",2019,"Verma, Arun and Manjesh Kumar Hanawal and Vaze, Rahul",proceedings,"@proceedings {2306,
+	title = {Distributed Algorithms for Efficient Learning and Coordination in Ad Hoc Networks},
+	journal = {17th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)},
+	year = {2019},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Vaze, Rahul}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Vaze, Rahul']"
+314,314,"Dynamic scheduling in a partially fluid, partially lossy queueing system", WiOpt,2019,Kiran Chaudhary and Veeraruna Kavitha and Jayakrishnan Nair,proceedings,"@proceedings {2025,
+	title = {Dynamic scheduling in a partially fluid, partially lossy queueing system},
+	journal = { WiOpt},
+	year = {2019},
+	author = {Kiran Chaudhary and Veeraruna Kavitha and Jayakrishnan Nair}
+}","['Kiran Chaudhary', 'Veeraruna Kavitha', 'Jayakrishnan Nair']"
+315,315,Epidemic Enhanced Cellular Networks,SPASWIN workshop held in conjunction with WiOpt ,2019,Veeraruna Kavitha and Eitan Altman and Sreenath Ramanath,proceedings,"@proceedings {2023,
+	title = {Epidemic Enhanced Cellular Networks},
+	journal = {SPASWIN workshop held in conjunction with WiOpt },
+	year = {2019},
+	author = {Veeraruna Kavitha and Eitan Altman and Sreenath Ramanath}
+}","['Veeraruna Kavitha', 'Eitan Altman', 'Sreenath Ramanath']"
+316,316,Field Experience of Deployment and Adoption of PV based DC Induction Cookstoves in Rural India,IEEE 46th Photovoltaic Specialists Conference (PVSC,2019,Sayli Shiradkar and Satish Telagamsetti and Narendra Shiradkar and Jayendran Venkateswaran and Chetan S. Solanki,proceedings,"@proceedings {2379,
+	title = {Field Experience of Deployment and Adoption of PV based DC Induction Cookstoves in Rural India},
+	journal = {IEEE 46th Photovoltaic Specialists Conference (PVSC},
+	year = {2019},
+	month = {06/2019},
+	pages = {1684-1689},
+	address = {Chicago},
+	doi = {10.1109/PVSC40753.2019.8980676},
+	author = {Sayli Shiradkar and Satish Telagamsetti and Narendra Shiradkar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Sayli Shiradkar', 'Satish Telagamsetti', 'Narendra Shiradkar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+317,317,Online Algorithm for Unsupervised Sensor Selection,Artificial Intelligence and Statistics,2019,"Verma, Arun and Manjesh Kumar Hanawal and Szepesvari, Csaba and Saligrama, Venkatesh",proceedings,"@proceedings {2301,
+	title = {Online Algorithm for Unsupervised Sensor Selection},
+	journal = {Artificial Intelligence and Statistics},
+	year = {2019},
+	author = {Verma, Arun and Manjesh Kumar Hanawal and Szepesvari, Csaba and Saligrama, Venkatesh}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal', 'Szepesvari, Csaba', 'Saligrama, Venkatesh']"
+318,318,A proof of the conjecture in Pricing surplus server capacity for mean waiting time sensitive customers,12th EAI International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019),2019,Manu Kumar Gupta and Nandyala Hemachandra,proceedings,"@proceedings {1976,
+	title = {A proof of the conjecture in Pricing surplus server capacity for mean waiting time sensitive customers},
+	journal = {12th EAI International Conference on Performance Evaluation Methodologies and Tools (VALUETOOLS 2019)},
+	year = {2019},
+	pages = {155-158},
+	publisher = {ACM Digital Library},
+	address = {Palma, Spain},
+	issn = {978-1-4503-6596-3 },
+	doi = {10.1145/3306309.3306332},
+	url = {https://doi.org/10.1145/3306309.3306332},
+	author = {Manu Kumar Gupta and Nandyala Hemachandra}
+}","['Manu Kumar Gupta', 'Nandyala Hemachandra']"
+319,319,Rolling Horizon Models for Inter-Depot Empty Container Repositioning,2019 Winter Simulation Conference (WSC),2019,Tejas Ghorpade and Narayan Rangaraj,proceedings,"@proceedings {2319,
+	title = {Rolling Horizon Models for Inter-Depot Empty Container Repositioning},
+	journal = {2019 Winter Simulation Conference (WSC)},
+	year = {2019},
+	doi = {10.1109/WSC40007.2019.9004884},
+	author = {Tejas Ghorpade and Narayan Rangaraj}
+}","['Tejas Ghorpade', 'Narayan Rangaraj']"
+320,320,A simple and fast distributed accelerated gradient method,Optimization for Machine Learning (OPT-ML) Workshop,2019,"Chhavi Sharma and Vishnu Narayanan and Balamurugan, P.",proceedings,"@proceedings {2434,
+	title = {A simple and fast distributed accelerated gradient method},
+	journal = {Optimization for Machine Learning (OPT-ML) Workshop},
+	year = {2019},
+	author = {Chhavi Sharma and Vishnu Narayanan and Balamurugan, P.}
+}","['Chhavi Sharma', 'Vishnu Narayanan', 'Balamurugan, P.']"
+321,321,Ultimately Stationary Policies to Approximate Risk-Sensitive Discounted MDPs,Valuetools,2019,Uday M Kumar and Sanjay P Bhat and Veeraruna Kavitha and Nandyala Hemachandra,proceedings,"@proceedings {2024,
+	title = {Ultimately Stationary Policies to Approximate Risk-Sensitive Discounted MDPs},
+	journal = {Valuetools},
+	year = {2019},
+	author = {Uday M Kumar and Sanjay P Bhat and Veeraruna Kavitha and Nandyala Hemachandra}
+}","['Uday M Kumar', 'Sanjay P Bhat', 'Veeraruna Kavitha', 'Nandyala Hemachandra']"
+322,322,Barriers and enablers impacting durability of solar street lighting systems in rural India,Sustainability and Development Conference,2018,Aritra Chakrabarty and Rohit Sharma and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki,proceedings,"@proceedings {1925,
+	title = {Barriers and enablers impacting durability of solar street lighting systems in rural India},
+	journal = {Sustainability and Development Conference},
+	year = {2018},
+	month = {11/2018},
+	address = {Ann Arbor, Michigan, USA},
+	author = {Aritra Chakrabarty and Rohit Sharma and Praveen Kumar and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Aritra Chakrabarty', 'Rohit Sharma', 'Praveen Kumar', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+323,323,Bringing Solar PV Technologies for Reliable Off-grid Power in Rural India,World Conference on Photovoltaic Energy Conversion (WCPEC-7) IEEE,2018,Rohit Sharma and Deepak Choudhary and Amruta Joshi and Jayendran Venkateswaran and Chetan S. Solanki,proceedings,"@proceedings {1917,
+	title = {Bringing Solar PV Technologies for Reliable Off-grid Power in Rural India},
+	journal = {World Conference on Photovoltaic Energy Conversion (WCPEC-7) IEEE},
+	year = {2018},
+	address = {Waikola, Hawaii},
+	doi = {10.1109/PVSC.2018.8547648},
+	author = {Rohit Sharma and Deepak Choudhary and Amruta Joshi and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Rohit Sharma', 'Deepak Choudhary', 'Amruta Joshi', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+324,324,Bus schedule for optimal bus bunching and waiting times,In ITS WorkShop held along with International Conference on Communication Systems \& Networks (COMSNETS),2018,M Venkateswararao Koppisetti and Veeraruna Kavitha and Urtzi Ayesta,proceedings,"@proceedings {2032,
+	title = {Bus schedule for optimal bus bunching and waiting times},
+	journal = {In ITS WorkShop held along with International Conference on Communication Systems \& Networks (COMSNETS)},
+	year = {2018},
+	pages = {. 607-612. IEEE},
+	author = {M Venkateswararao Koppisetti and Veeraruna Kavitha and Urtzi Ayesta}
+}","['M Venkateswararao Koppisetti', 'Veeraruna Kavitha', 'Urtzi Ayesta']"
+326,326,An empirical study on quality control practices in a supply chain network,51st Annual Convention and International Conference of ORSI,2018,Alisha Arora and Jayendran Venkateswaran,proceedings,"@proceedings {1928,
+	title = {An empirical study on quality control practices in a supply chain network},
+	journal = {51st Annual Convention and International Conference of ORSI},
+	year = {2018},
+	month = {12/2018},
+	address = {IIT Bombay, Mumbai, India},
+	author = {Alisha Arora and Jayendran Venkateswaran}
+}","['Alisha Arora', 'Jayendran Venkateswaran']"
+327,327,Modeling Label Interactions in Multi-label Classification: A Multi-structure SVM Perspective.,Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),2018,Anusha Kasinikota and P. Balamurugan and Shirish Shevade,proceedings,"@proceedings {2057,
+	title = {Modeling Label Interactions in Multi-label Classification: A Multi-structure SVM Perspective.},
+	journal = {Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
+	volume = {10937},
+	year = {2018},
+	month = {06/2018},
+	author = {Anusha Kasinikota and P. Balamurugan and Shirish Shevade}
+}","['Anusha Kasinikota', 'P. Balamurugan', 'Shirish Shevade']"
+328,328,Operationalizing Localization: A Case study of solar PV based technology Intervention in Rural India,51st Annual Convention and International Conference of ORSI,2018,Jigar Panot and Deepak Choudhary and Sayli Bhide and Jayendran Venkateswaran and Chetan S. Solanki,proceedings,"@proceedings {1927,
+	title = {Operationalizing Localization: A Case study of solar PV based technology Intervention in Rural India},
+	journal = {51st Annual Convention and International Conference of ORSI},
+	year = {2018},
+	month = {12/2018},
+	address = {IIT Bombay, Mumbai, India},
+	author = {Jigar Panot and Deepak Choudhary and Sayli Bhide and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Jigar Panot', 'Deepak Choudhary', 'Sayli Bhide', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+329,329,"Random Fixed Points, Limits and Systemic risk",CDC,2018,Veeraruna Kavitha and Indrajit Saha and Sandeep Juneja,proceedings,"@proceedings {2029,
+	title = {Random Fixed Points, Limits and Systemic risk},
+	journal = {CDC},
+	year = {2018},
+	author = {Veeraruna Kavitha and Indrajit Saha and Sandeep Juneja}
+}","['Veeraruna Kavitha', 'Indrajit Saha', 'Sandeep Juneja']"
+330,330,Scalable linear classifiers based on exponential loss function,Proceedings of the ACM India Joint International Conference on Data Science and Management of Data,2018,Sandhya Tripathi and Nandyala Hemachandra,proceedings,"@proceedings {1872,
+	title = {Scalable linear classifiers based on exponential loss function},
+	journal = {Proceedings of the ACM India Joint International Conference on Data Science and Management of Data},
+	year = {2018},
+	publisher = {ACM},
+	author = {Sandhya Tripathi and Nandyala Hemachandra}
+}","['Sandhya Tripathi', 'Nandyala Hemachandra']"
+331,331,Solar Study Lamps target to brighten 1 Million Lives: Experimental evidence from Pilot project in India,World Conference on Photovoltaic Energy Conversion (WCPEC-7) IEEE,2018,Rohit Sharma and Deepak Choudhary and Nikita Arora and Jayendran Venkateswaran and Chetan S. Solanki,proceedings,"@proceedings {1916,
+	title = {Solar Study Lamps target to brighten 1 Million Lives: Experimental evidence from Pilot project in India},
+	journal = {World Conference on Photovoltaic Energy Conversion (WCPEC-7) IEEE},
+	year = {2018},
+	address = {Waikola, Hawaii},
+	doi = {10.1109/PVSC.2018.8547474},
+	author = {Rohit Sharma and Deepak Choudhary and Nikita Arora and Jayendran Venkateswaran and Chetan S. Solanki}
+}","['Rohit Sharma', 'Deepak Choudhary', 'Nikita Arora', 'Jayendran Venkateswaran', 'Chetan S. Solanki']"
+332,332,Some new PAC-Bayesian bounds and their use in selection of regularization parameter for linear SVMs,Proceedings of the ACM India Joint International Conference on Data Science and Management of Data,2018,"Sahu, Puja and Nandyala Hemachandra",proceedings,"@proceedings {1873,
+	title = {Some new PAC-Bayesian bounds and their use in selection of regularization parameter for linear SVMs},
+	journal = {Proceedings of the ACM India Joint International Conference on Data Science and Management of Data},
+	year = {2018},
+	publisher = {ACM},
+	author = {Sahu, Puja and Nandyala Hemachandra}
+}","['Sahu, Puja', 'Nandyala Hemachandra']"
+333,333,To Participate or Not in a Coalition in Adversarial Games,"Interational Conference, NETwork Games, COntrol and OPtimization (NETGCoop)",2018,"Ranbir Dhounchak and Veeraruna Kavitha and Hayel, Yezekael",proceedings,"@proceedings {2030,
+	title = {To Participate or Not in a Coalition in Adversarial Games},
+	journal = {Interational Conference, NETwork Games, COntrol and OPtimization (NETGCoop)},
+	year = {2018},
+	author = {Ranbir Dhounchak and Veeraruna Kavitha and Hayel, Yezekael}
+}","['Ranbir Dhounchak', 'Veeraruna Kavitha', 'Hayel, Yezekael']"
+334,334,Unsupervised cost sensitive predictions with side information,Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM,2018,"Verma, Arun and Manjesh Kumar Hanawal",proceedings,"@proceedings {2299,
+	title = {Unsupervised cost sensitive predictions with side information},
+	journal = {Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM},
+	year = {2018},
+	author = {Verma, Arun and Manjesh Kumar Hanawal}
+}","['Verma, Arun', 'Manjesh Kumar Hanawal']"
+335,335,User response based recommendations: A local angle approach,10th International Conference on Communication Systems \& Networks (COMSNETS),2018,Veeraruna Kavitha and Salman Memon and Manjesh Kumar Hanawal and Eitan Altman and R. Devanand,proceedings,"@proceedings {2031,
+	title = {User response based recommendations: A local angle approach},
+	journal = {10th International Conference on Communication Systems \& Networks (COMSNETS)},
+	year = {2018},
+	pages = { 73-80. IEEE},
+	author = {Veeraruna Kavitha and Salman Memon and Manjesh Kumar Hanawal and Eitan Altman and R. Devanand}
+}","['Veeraruna Kavitha', 'Salman Memon', 'Manjesh Kumar Hanawal', 'Eitan Altman', 'R. Devanand']"
